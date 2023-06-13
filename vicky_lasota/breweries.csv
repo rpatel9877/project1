@@ -4590,7 +4590,7 @@ McMenamins Lighthouse Brewery,brewpub,4157 NW Highway 101 Ste 117,Lincoln City,O
 McMenamins Mill Creek Brewery,brewpub,13300 Bothell Everett Hwy Ste 304,Mill Creek,Washington,98012-5312,-122.2123317,47.87765468,Washington,98012,4589
 McMenamins Murray & Allen,brewpub,6179 SW Murray Blvd,Beaverton,Oregon,97008-4421,-122.8264537,45.4750792,Oregon,97008,4590
 McMenamins Oak Hills Brewery,micro,14740 NW Cornell Rd Ste 80,Portland,Oregon,97229-5400,-122.7105079,45.5330425,Oregon,97229,4591
-McMenamins Old Church Brewery,brewpub,30340 SW Boones Ferry Rd,Wilsonville,Oregon,-97070,-122.7726765,45.3007043,Oregon,-9707,4592
+McMenamins Old Church Brewery,brewpub,30340 SW Boones Ferry Rd,Wilsonville,Oregon,-97070,-122.7726765,45.3007043,Oregon,None,4592
 McMenamins Old St. Francis School,brewpub,700 NW Bond St,Bend,Oregon,97703-2702,-121.314499,44.0566885,Oregon,97703,4593
 McMenamins Olympic Club Brewery,brewpub,112 N Tower Ave,Centralia,Washington,98531-4220,-122.9539398,46.7167828,Washington,98531,4594
 McMenamins on Monroe,brewpub,2001 NW Monroe Ave Ste 106,Corvallis,Oregon,97330-5567,-123.275563,44.56825637,Oregon,97330,4595
@@ -5245,7 +5245,7 @@ Orange Blossom Brewing Company,proprietor,44 W Illiana St Ste 102,Orlando,Florid
 Orange Cat Brewery,proprietor,5110 S Graystone Ave,Sioux Falls,South Dakota,57108-7561,-96.67330313,43.49940496,South Dakota,57108,5244
 Orange County Brewers,brewpub,131 N Orange Ave Ste 106,Orlando,Florida,32801-2385,,,Florida,32801,5245
 Orchid Island Brewery,micro,2855 Ocean Dr Ste C1,Vero Beach,Florida,32963-2038,,,Florida,32963,5246
-Ordnance Brewing,micro,405 NE Olson Rd,Boardman,Oregon,-97818,-119.6847411,45.84826134,Oregon,-9781,5247
+Ordnance Brewing,micro,405 NE Olson Rd,Boardman,Oregon,-97818,-119.6847411,45.84826134,Oregon,None,5247
 Ore Dock Brewing Co,micro,114 W Spring St,Marquette,Michigan,49855-4608,-87.39388593,46.54189135,Michigan,49855,5248
 Oregon City Brewing Company,brewpub,1401 Washington St,Oregon City,Oregon,97045-1650,-122.6001483,45.3617756,Oregon,97045,5249
 Oregon Trail Brewery,micro,341 SW 2nd St,Corvallis,Oregon,97333-4640,-123.2608445,44.5612822,Oregon,97333,5250
@@ -5566,7 +5566,7 @@ Porter Pizza & Brewery,brewpub,6370 Powers Ferry Rd NW,Sandy Springs,Georgia,303
 Porters Mill Brewery,micro,1918 Porters Mill Rd,Midlothian,Virginia,23114,,,Virginia,23114,5565
 Portico Brewing Co,contract,256 Moody Street,Waltham,Massachusetts,02453,-71.2366218,42.3718244,Massachusetts,02453,5566
 Portland Brewing/North American Breweries,regional,2730 NW 31st Ave,Portland,Oregon,97210-1718,-122.713089,45.54176525,Oregon,97210,5567
-Portland U-Brew & Pub,brewpub,6237 SE Milwaukie Ave,Portland,Oregon,-97202,-122.649393,45.47740515,Oregon,-9720,5568
+Portland U-Brew & Pub,brewpub,6237 SE Milwaukie Ave,Portland,Oregon,-97202,-122.649393,45.47740515,Oregon,None,5568
 Portneuf Valley Brewing Co,brewpub,615 S 1st Ave,Pocatello,Idaho,83201-6557,-112.4431819,42.85998871,Idaho,83201,5569
 Portsmouth Brewing Co/Maults,brewpub,224 Second St,Portsmouth,Ohio,45662-0218,,,Ohio,45662,5570
 Poseidon Brewing Company,micro,5777 Olivas Park Dr Unit Q,Ventura,California,93003-7928,-119.2097757,34.24415285,California,93003,5571
@@ -6466,7 +6466,7 @@ Soggy Bottom Brewing Co.,micro,660 Main St,Dunedin,Florida,34698,-82.78271981,28
 Solace Brewing Company,micro,42615 Trade West Dr Ste 100,Dulles,Virginia,20166-2259,,,Virginia,20166,6465
 Solarc Brewing,contract,134 S Avenue 57,Los Angeles,California,90042-4702,,,California,90042,6466
 Solemn Oath Brewery,micro,1661 Quincy Ave Ste 179,Naperville,Illinois,60540-3969,,,Illinois,60540,6467
-Solera Brewery,micro,4945 Baseline Dr,Mount Hood Parkdale,Oregon,-97041,-121.5951287,45.51966439,Oregon,-9704,6468
+Solera Brewery,micro,4945 Baseline Dr,Mount Hood Parkdale,Oregon,-97041,-121.5951287,45.51966439,Oregon,None,6468
 Solid Ground Brewing,brewpub,552 Pleasant Valley Road,Diamond Springs,California,95619,-120.8219606,38.6932793,California,95619,6469
 Solid Rock Brewing,micro,2214 Bee Creek Rd,Spicewood,Texas,78669-5136,,,Texas,78669,6470
 Solorio Brewing Co,micro,9395 Feron Blvd Ste K,Rancho Cucamonga,California,91730-4565,-117.6003239,34.09295495,California,91730,6471
@@ -6608,7 +6608,7 @@ Starboard Brewing Co,brewpub,151 N 3rd Ave,Sturgeon Bay,Wisconsin,54235-2415,-87
 Stargazer Brewing Company,planning,,Coatesville,Pennsylvania,19320,,,Pennsylvania,19320,6607
 Stark Brewing Company,brewpub,500 North Commercial St,Manchester,New Hampshire,03101-1151,-71.4676557,42.9945554,New Hampshire,03101,6608
 "Starpoint Brewing, LLC",micro,901 Clarence Dr,Chapel Hill,North Carolina,27516-3145,,,North Carolina,27516,6609
-"Starpoint Brewing, LLC / Beer Study",micro,2501 University Dr Ste 4,Chapel Hill,North Carolina,22707,,,North Carolina,22707,6610
+"Starpoint Brewing, LLC / Beer Study",micro,2501 University Dr Ste 4,Chapel Hill,North Carolina,22707,,,North Carolina,None,6610
 Starr Brothers Brewing Co.,brewpub,5700 San Antonio Dr NE Ste B1,Albuquerque,New Mexico,87109-4179,,,New Mexico,87109,6611
 Starr Hill Brewery LLC,regional,5391 Three Notch D Rd,Crozet,Virginia,22932-3181,,,Virginia,22932,6612
 Starr Hill Pilot Brewery & Side Stage,micro,6 Old Whitmore Ave SE,Roanoke,Virginia,24016-1212,,,Virginia,24016,6613
@@ -7328,7 +7328,7 @@ TRVE Brewing Co,micro,2600 W. 2nd Ave Unit 8,Denver,Colorado,80219,,,Colorado,80
 TRVE Brewing Co. - The Acid Temple,micro,2600 W. 2nd Ave Unit 8,Denver,Colorado,80219,,,Colorado,80219,7327
 TTs Old Iron Brewery,micro,154 S Madison St,Spokane,Washington,99201-4542,-117.4281651,47.655248,Washington,99201,7328
 Tuckahoe Brewing Co,micro,3092 English Creek Ave,Egg Harbor Township,New Jersey,08234-5245,-74.61365675,39.42606663,New Jersey,08234,7329
-Tucked Away Brewing,planning,,Manassas,Virginia,22010,,,Virginia,22010,7330
+Tucked Away Brewing,planning,,Manassas,Virginia,22010,,,Virginia,None,7330
 Tucker Brewing Company,micro,2003 S Bibb Dr,Tucker,Georgia,30084-6240,-84.20758809,33.84269209,Georgia,30084,7331
 Tuckerman Brewing Co,micro,66 Hobbs St,Conway,New Hampshire,03818-1058,-71.12983196,43.97582858,New Hampshire,03818,7332
 Tujax Tavern,brewpub,103 S Grove St,Delton,Michigan,49046-9470,-85.407991,42.496258,Michigan,49046,7333
@@ -7810,7 +7810,7 @@ Wissahickon Brewing Company,micro,3705 W School House Ln,Philadelphia,Pennsylvan
 Wit's End Brewing Co,micro,1330 Zuni St Ste N,Denver,Colorado,80204-2328,,,Colorado,80204,7809
 Witch's Hat Brewing,micro,601 S Lafayette St,South Lyon,Michigan,48178-1453,-83.65099308,42.45542522,Michigan,48178,7810
 Witchdoctor Brewing Company,micro,168 Center St,Southington,Connecticut,06489,-72.88142555,41.60169813,Connecticut,06489,7811
-Wizards of Williams Hops Garden and Craft Brewery,planning,,Williams,Oregon,97545,,,Oregon,97545,7812
+Wizards of Williams Hops Garden and Craft Brewery,planning,,Williams,Oregon,97545,,,Oregon,None,7812
 Wm Roesch Brewing Company,micro,250 SE 3rd St,Pendleton,Oregon,97801-2503,-118.7842506,45.6730681,Oregon,97801,7813
 Wolf Branch Brewing Co.,micro,119 N Bay St,Eustis,Florida,32726-3402,-81.68556847,28.85386984,Florida,32726,7814
 Wolf Brewing Company,planning,,Harrisburg,Pennsylvania,17112-1550,,,Pennsylvania,17112,7815
