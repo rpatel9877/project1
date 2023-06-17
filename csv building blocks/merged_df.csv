@@ -58,7 +58,7 @@ name,brewery_type,address_1,City,State,postal_code,longitude,latitude,state_x,zi
 2Kids Brewing Company,micro,8680 Miralani Dr Ste 123,San Diego,California,92126-6391,-117.137429,32.896584,California,92126,74,"San Diego city, California",6.0,66000.0,1381600.0,707804.0,673796.0,35.9,34.9,37.0,34070.0,2826.0,3995.0,4564.0,4380.0,4664.0
 2nd Shift Brewing Co,brewpub,1601 Sublette Ave,St. Louis,Missouri,63110-1924,-90.280526,38.621943,Missouri,63110,75,"St. Louis city, Missouri",29.0,65000.0,293310.0,143041.0,150269.0,36.8,36.0,37.7,58131.0,3086.0,7839.0,8876.0,5167.0,9842.0
 3 Beards Beer Company,contract,4 Main St,Williamsburg,Massachusetts,01096,-72.7305059,42.3923659,Massachusetts,01096,78,,,,,,,,,,,,,,,
-3 Daughters Brewing,micro,222 22nd St S,Saint Petersburg,Florida,33712-1240,-82.6629721,27.76899022,Florida,33712,79,,,,,,,,,,,,,,,
+3 Daughters Brewing,micro,222 22nd St S,Saint Petersburg,Florida,33712-1240,-82.6629721,27.76899022,Florida,33712,79,"St. Petersburg city, Florida",12.0,63000.0,258214.0,123464.0,134750.0,41.9,41.1,42.6,60676.0,6153.0,10649.0,9269.0,7204.0,7030.0
 3 Disciples Brewing,micro,,Sebastopol,California,95472-5937,-122.8332502,38.3845125,California,95472,80,,,,,,,,,,,,,,,
 3 Freaks Brewing Co,micro,7140 E County Line Rd,Highlands Ranch,Colorado,80126-3926,-104.9426656,39.5659575,Colorado,80126,81,,,,,,,,,,,,,,,
 3 Iron Brewing Company,micro,898 Via Lata Ste A,Colton,California,92324-3920,-117.3066993,34.05616889,California,92324,82,"Colton city, California",6.0,14890.0,54286.0,26659.0,27627.0,35.3,36.8,33.5,93584.0,9924.0,12950.0,12313.0,13594.0,11033.0
@@ -76,7 +76,7 @@ name,brewery_type,address_1,City,State,postal_code,longitude,latitude,state_x,zi
 3Halves Brewing Co,brewpub,110 E Kansas St,Liberty,Missouri,64068-2374,-94.4190247,39.2461993,Missouri,64068,100,"Liberty city, Missouri",29.0,42032.0,30379.0,14564.0,15815.0,38.3,37.3,40.2,21599.0,1221.0,4344.0,2480.0,1574.0,2331.0
 3rd Degree Brewhouse,micro,1625 N Main St,Fuquay Varina,North Carolina,27526,-78.794223,35.5914556,North Carolina,27526,101,,,,,,,,,,,,,,,
 3rd Rock Brewing Company,micro,134 Industrial Park Dr,Trenton,North Carolina,28585-9593,-77.36749285,35.06939877,North Carolina,28585,103,,,,,,,,,,,,,,,
-3rd Turn Brewing,micro,10408 Watterson Trl,Louisville,Kentucky,40299-3702,-85.56656078,38.19322725,Kentucky,40299,104,,,,,,,,,,,,,,,
+3rd Turn Brewing,micro,10408 Watterson Trl,Louisville,Kentucky,40299-3702,-85.56656078,38.19322725,Kentucky,40299,104,"Louisville/Jefferson County metro government (balance), Kentucky",21.0,48006.0,628577.0,305076.0,323501.0,37.9,36.7,39.0,30829.0,2074.0,4373.0,4569.0,3928.0,3555.0
 4 By 4 Brewing Company,micro,2811 E Galloway St Ste A,Springfield,Missouri,65804-4601,-93.239889,37.147986,Missouri,65804,106,"Springfield city, Missouri",29.0,70000.0,169850.0,82867.0,86983.0,32.8,32.4,33.3,34626.0,4359.0,5291.0,4921.0,2933.0,5299.0
 4 Hands Brewing Co,regional,1220 S 8th St,St. Louis,Missouri,63104-3610,-90.19762012,38.61526593,Missouri,63104,107,"St. Louis city, Missouri",29.0,65000.0,293310.0,143041.0,150269.0,36.8,36.0,37.7,58131.0,3086.0,7839.0,8876.0,5167.0,9842.0
 4 Stitch Brewing Co,nano,7 192nd St SW,Bothell,Washington,98012,-122.2328187,47.82525617,Washington,98012,109,"Bothell city, Washington",53.0,7380.0,51331.0,25170.0,26161.0,36.0,36.3,35.7,21698.0,1472.0,2757.0,4200.0,3807.0,3050.0
@@ -157,8 +157,8 @@ Aero Plains Brewing,micro,117 N Handley St,Wichita,Kansas,67203-6114,-97.3507113
 Aeronaut Brewing Company,micro,14 Tyler St,Somerville,Massachusetts,02143-3224,-71.1062676,42.3819723,Massachusetts,02143,218,"Somerville city, Massachusetts",25.0,62535.0,79819.0,39288.0,40531.0,33.2,33.6,32.8,154788.0,20122.0,22063.0,19269.0,17132.0,17351.0
 Aftershock Brewing Co,micro,28822 Old Town Front St Ste 107,Temecula,California,92590-2893,-117.1485306,33.49310382,California,92590,219,"Temecula city, California",6.0,78120.0,110863.0,55173.0,55690.0,35.6,34.5,36.5,26044.0,825.0,3729.0,3066.0,2896.0,2802.0
 Afterthought Brewing Company,micro,844 N Ridge Ave,Lombard,Illinois,60148-1215,-88.02234574,41.90549742,Illinois,60148,220,,,,,,,,,,,,,,,
-Against the Grain Brewery,micro,401 E Main St,Louisville,Kentucky,40202-1110,-85.7440377,38.2554568,Kentucky,40202,222,,,,,,,,,,,,,,,
-Against the Grain Production Facility,micro,1800 Northwestern Pkwy,Louisville,Kentucky,40203,-85.7767241,38.2658758,Kentucky,40203,223,,,,,,,,,,,,,,,
+Against the Grain Brewery,micro,401 E Main St,Louisville,Kentucky,40202-1110,-85.7440377,38.2554568,Kentucky,40202,222,"Louisville/Jefferson County metro government (balance), Kentucky",21.0,48006.0,628577.0,305076.0,323501.0,37.9,36.7,39.0,30829.0,2074.0,4373.0,4569.0,3928.0,3555.0
+Against the Grain Production Facility,micro,1800 Northwestern Pkwy,Louisville,Kentucky,40203,-85.7767241,38.2658758,Kentucky,40203,223,"Louisville/Jefferson County metro government (balance), Kentucky",21.0,48006.0,628577.0,305076.0,323501.0,37.9,36.7,39.0,30829.0,2074.0,4373.0,4569.0,3928.0,3555.0
 "Agrarian Ales, LLC",closed,31115 W Crossroads Ln,Eugene,Oregon,97408-9220,-123.1277712,44.18922784,Oregon,97408,225,"Eugene city, Oregon",41.0,23850.0,175102.0,86505.0,88597.0,34.8,34.5,35.2,26091.0,3344.0,2425.0,3248.0,3569.0,2151.0
 Aigean Ales,micro,250 Commercial St Ste 2001,Manchester,New Hampshire,03101-1165,-71.46899187,42.9899594,New Hampshire,03101,227,"Manchester city, New Hampshire",33.0,45140.0,115470.0,56797.0,58673.0,36.6,36.3,36.7,91122.0,8634.0,14163.0,11400.0,11849.0,11147.0
 Aiken Brewing Co,brewpub,140 Laurens St SW,Aiken,South Carolina,29801-3848,-81.7228141,33.5603084,South Carolina,29801,228,"Aiken city, South Carolina",45.0,550.0,31907.0,14611.0,17296.0,43.0,36.7,48.6,29290.0,4032.0,4057.0,2641.0,2763.0,3887.0
@@ -172,7 +172,7 @@ Alameda Brewing Co,micro,4765 NE Fremont St,Portland,Oregon,97213-1724,-122.6136
 Alameda Island Brewing Company,micro,1716 Park St,Alameda,California,94501-1416,-122.2394506,37.76833631,California,94501,238,"Alameda city, California",6.0,562.0,76352.0,37267.0,39085.0,40.6,39.9,41.5,21056.0,1045.0,2939.0,3888.0,2388.0,2510.0
 Alamo Beer Co,micro,415 Burnet St,San Antonio,Texas,78202-1909,-98.4771638,29.42902321,Texas,78202,239,"San Antonio city, Texas",48.0,65000.0,1451863.0,715140.0,736723.0,34.1,33.3,35.0,24774.0,3030.0,2814.0,2450.0,2548.0,2755.0
 Alaro Craft Brewery,brewpub,2004 Capitol Ave,Sacramento,California,95811,-121.4811835,38.57323961,California,95811,241,"Sacramento city, California",6.0,64000.0,525028.0,257437.0,267591.0,36.3,35.0,38.1,162780.0,17446.0,22421.0,23546.0,18177.0,13984.0
-Alaskan Brewing Co.,regional,5429 Shaune Dr,Juneau,Alaska,99801-9540,-134.4918763,58.35681231,Alaska,99801,242,,,,,,,,,,,,,,,
+Alaskan Brewing Co.,regional,5429 Shaune Dr,Juneau,Alaska,99801-9540,-134.4918763,58.35681231,Alaska,99801,242,"Juneau city and borough, Alaska",2.0,36400.0,31973.0,15153.0,16820.0,39.4,39.6,38.9,31973.0,2812.0,5492.0,4260.0,3533.0,4804.0
 Albia Brewing Co,brewpub,11 Benton Ave E,Albia,Iowa,52531-2032,-92.8073711,41.02718903,Iowa,52531,243,,,,,,,,,,,,,,,
 Albion Malleable Brewing Company,brewpub,420 S Superior St,Albion,Michigan,49224,-84.7532755,42.2423188,Michigan,49224,244,,,,,,,,,,,,,,,
 Alcatraz Brewing,micro,20 Ocean Vista Ln,Palm Coast,Florida,32137-2743,-81.19287028,29.61781196,Florida,32137,246,"Palm Coast city, Florida",12.0,54200.0,93845.0,45426.0,48419.0,50.8,49.9,54.1,25059.0,1285.0,1447.0,4174.0,4189.0,3220.0
@@ -198,7 +198,7 @@ Allentown Brew Works,brewpub,812 Hamilton St,Allentown,Pennsylvania,18101-2437,-
 Alliance Brewing Company,micro,1130 Sevier Ave,Knoxville,Tennessee,37920,-83.9035469,35.9593516,Tennessee,37920,275,"Knoxville city, Tennessee",47.0,40000.0,192657.0,94692.0,97965.0,33.6,32.4,35.5,39089.0,3951.0,4244.0,6238.0,4847.0,3748.0
 Alligator Brewing / Tall Paul's Brewhouse,micro,10 SE 2nd Ave,Gainesville,Florida,32601-6232,-82.3222523,29.6502615,Florida,32601,276,"Gainesville city, Florida",12.0,25175.0,140406.0,66022.0,74384.0,27.7,26.8,29.3,21025.0,1350.0,2728.0,4111.0,2850.0,1550.0
 Alloy Brewing Company,micro,2700 Coon Rapids Blvd NW,Coon Rapids,Minnesota,55433-3955,-93.33543497,45.16953614,Minnesota,55433,277,"Coon Rapids city, Minnesota",27.0,13114.0,63380.0,31649.0,31731.0,40.3,37.7,44.0,39925.0,3773.0,5697.0,5082.0,5911.0,5266.0
-Alltech's Lexington Brewing,regional,475 Angliana Ave,Lexington,Kentucky,40508-3134,-84.51599645,38.04950651,Kentucky,40508,278,,,,,,,,,,,,,,,
+Alltech's Lexington Brewing,regional,475 Angliana Ave,Lexington,Kentucky,40508-3134,-84.51599645,38.04950651,Kentucky,40508,278,"Lexington-Fayette urban county, Kentucky",21.0,46027.0,321793.0,158232.0,163561.0,35.3,34.2,36.3,628577.0,57322.0,91943.0,81506.0,73456.0,83457.0
 Alluvial Brewing Company,micro,3715 W 190th St,Ames,Iowa,50014-9316,-93.6370387,41.5831617,Iowa,50014,279,"Ames city, Iowa",19.0,1855.0,66422.0,34165.0,32257.0,22.8,22.5,23.6,70289.0,5938.0,8425.0,12106.0,11402.0,5865.0
 Alma Brewing Co,brewpub,208 E Superior St,Alma,Michigan,48801-1819,-84.6588719,43.37888808,Michigan,48801,280,,,,,,,,,,,,,,,
 Alma Mader Brewing,micro,2635 Southwest Blvd,Kansas City,Missouri,64108,-94.599389,39.082495,Missouri,64108,281,"Kansas City city, Missouri",29.0,38000.0,508415.0,241879.0,266536.0,35.1,34.7,35.5,29380.0,1232.0,2600.0,4505.0,3651.0,3179.0
@@ -267,7 +267,7 @@ Anthem Brewing Co,micro,908 SW 4th St,Oklahoma City,Oklahoma,73109-1012,-97.5279
 Antiques on High,micro,714 S High St,Columbus,Ohio,43206,-82.99774,39.9476,Ohio,43206,366,"Columbus city, Ohio",39.0,18000.0,907310.0,447150.0,460160.0,33.1,32.5,33.7,50818.0,3554.0,10334.0,6635.0,4703.0,6059.0
 Apex Aleworks Brew And BBQ Supplies,micro,4360 S Noland Rd,Independence,Missouri,64055-4741,-94.416872,39.041039,Missouri,64055,368,"Independence city, Missouri",29.0,35000.0,122083.0,59554.0,62529.0,43.7,40.5,46.8,42760.0,4280.0,6447.0,6375.0,4162.0,5183.0
 Apocalypse Ale Works,micro,1257 Burnbridge Rd,Forest,Virginia,24551-3803,-79.28917899,37.36302124,Virginia,24551,370,,,,,,,,,,,,,,,
-Apocalypse Brew Works,micro,1612 Mellwood Ave,Louisville,Kentucky,40206-1752,-85.72031443,38.2566442,Kentucky,40206,371,,,,,,,,,,,,,,,
+Apocalypse Brew Works,micro,1612 Mellwood Ave,Louisville,Kentucky,40206-1752,-85.72031443,38.2566442,Kentucky,40206,371,"Louisville/Jefferson County metro government (balance), Kentucky",21.0,48006.0,628577.0,305076.0,323501.0,37.9,36.7,39.0,30829.0,2074.0,4373.0,4569.0,3928.0,3555.0
 Appalachian Brewing Co - Harrisburg,brewpub,50 N Cameron St,Harrisburg,Pennsylvania,17101-2407,-76.8816961,40.291059,Pennsylvania,17101,374,"Harrisburg city, Pennsylvania",42.0,32800.0,50128.0,24969.0,25159.0,35.0,29.7,37.4,29973.0,2645.0,3927.0,3467.0,3543.0,3389.0
 Appalachian Brewing Co - Lititz,brewpub,55 N Water St,Lititz,Pennsylvania,17543-1612,-76.30100986,40.15827375,Pennsylvania,17543,375,,,,,,,,,,,,,,,
 Appalachian Mountain Brewery - Boone,micro,163 Boone Creek Dr,Boone,North Carolina,28607-7911,-81.668461,36.2033414,North Carolina,28607,377,"Boone town, North Carolina",37.0,7080.0,20620.0,9315.0,11305.0,21.3,21.5,20.8,57763.0,6703.0,7348.0,6467.0,7857.0,5827.0
@@ -445,7 +445,7 @@ Barn Brewers,brewpub,114 N Main St,Lawton,Michigan,49065-8634,-85.84966443,42.16
 Barn Brewery,micro,2850 El Cajon Blvd Ste 3,San Diego,California,92104-1389,-117.1324165,32.75568723,California,92104,632,"San Diego city, California",6.0,66000.0,1381600.0,707804.0,673796.0,35.9,34.9,37.0,34070.0,2826.0,3995.0,4564.0,4380.0,4664.0
 Barn Door Brewing,micro,1174 SW Highway 99W,Dundee,Oregon,97115,-123.0146104,45.27424538,Oregon,97115,633,,,,,,,,,,,,,,,
 Barn Town Brewing Co.,brewpub,9500 SE University Ave #1110,West Des Moines,Iowa,50266-1888,-93.8385143,41.5996472,Iowa,50266,634,"West Des Moines city, Iowa",19.0,83910.0,69951.0,35154.0,34797.0,37.6,36.0,39.7,28063.0,1953.0,3575.0,4146.0,3068.0,3503.0
-Barnaby Brewing Company,micro,165 Shattuck Way,Juneau,Alaska,99801,-134.405962,58.300314,Alaska,99801,635,,,,,,,,,,,,,,,
+Barnaby Brewing Company,micro,165 Shattuck Way,Juneau,Alaska,99801,-134.405962,58.300314,Alaska,99801,635,"Juneau city and borough, Alaska",2.0,36400.0,31973.0,15153.0,16820.0,39.4,39.6,38.9,31973.0,2812.0,5492.0,4260.0,3533.0,4804.0
 Barnshed Brewing,micro,100 Lauman Ln,Hicksville,New York,11801-6574,-73.50094256,40.74420335,New York,11801,638,,,,,,,,,,,,,,,
 Barnstable Brewing,micro,485 W Main St,Hyannis,Massachusetts,02601-3644,-70.31159594,41.64913517,Massachusetts,02601,639,,,,,,,,,,,,,,,
 Barrel 41 Brewing Co,brewpub,1132 S. Commercial St.,Neenah,Wisconsin,54956,-88.4642861,44.16805,Wisconsin,54956,642,"Neenah city, Wisconsin",55.0,55750.0,27532.0,13862.0,13670.0,36.6,34.9,37.8,40378.0,1669.0,3752.0,4739.0,6190.0,5370.0
@@ -505,7 +505,7 @@ Bear Republic Brewing Co Pub & Restaurant - Lakeside,brewpub,5000 Roberts Lake R
 Bear Roots Brewing Company,micro,1213 S Santa Fe Ave,Vista,California,92083-7230,-117.226238,33.188251,California,92083,721,"Vista city, California",6.0,82996.0,98671.0,52940.0,45731.0,33.5,33.5,33.4,27835.0,1757.0,3506.0,2420.0,3420.0,5626.0
 Beara Brewing Co.,micro,2800 Lafayette Rd,Portsmouth,New Hampshire,03801-5915,-70.790732,43.027935,New Hampshire,03801,722,"Portsmouth city, New Hampshire",33.0,62900.0,20536.0,9753.0,10783.0,42.8,43.6,42.5,32859.0,2797.0,4925.0,3802.0,5046.0,5908.0
 Beard Engine Brewing Co,micro,208 Main St,Alba,Missouri,64830,-94.418276,37.248046,Missouri,64830,723,,,,,,,,,,,,,,,
-Bearded Iris Brewing,micro,101 Van Buren St,Nashville,Tennessee,37208-1719,-86.786174,36.181424,Tennessee,37208,725,,,,,,,,,,,,,,,
+Bearded Iris Brewing,micro,101 Van Buren St,Nashville,Tennessee,37208-1719,-86.786174,36.181424,Tennessee,37208,725,"Nashville-Davidson metropolitan government (balance), Tennessee",47.0,52006.0,678845.0,327201.0,351644.0,34.9,34.5,35.2,33896.0,2259.0,3570.0,4378.0,3687.0,4095.0
 Beards Brewery,brewpub,215 E Lake St,Petoskey,Michigan,49770-2415,-84.95425838,45.37533801,Michigan,49770,727,,,,,,,,,,,,,,,
 Beards Brewery Production Facility,micro,6328 Ferry Ave,Charlevoix,Michigan,49720-9504,-85.249116,45.304738,Michigan,49720,728,,,,,,,,,,,,,,,
 Beardslee Public House,brewpub,19116 Beardslee Blvd Ste 201,Bothell,Washington,98011-0202,-122.1914046,47.7663209,Washington,98011,729,"Bothell city, Washington",53.0,7380.0,51331.0,25170.0,26161.0,36.0,36.3,35.7,21698.0,1472.0,2757.0,4200.0,3807.0,3050.0
@@ -720,7 +720,7 @@ BlackRock Brewers,micro,1664 S Research Loop Ste 200,Tucson,Arizona,85710-6767,-
 Blackrocks Brewery,micro,424 N 3rd St,Marquette,Michigan,49855-3555,-87.39462133,46.5464589,Michigan,49855,1011,"Marquette city, Michigan",26.0,51900.0,20565.0,10944.0,9621.0,33.5,31.8,34.4,42310.0,4003.0,5819.0,6082.0,4265.0,5987.0
 Blackrocks Brewery - Production Facility,micro,950 W Washington St,Marquette,Michigan,49855-4019,-87.41368794,46.54594024,Michigan,49855,1012,"Marquette city, Michigan",26.0,51900.0,20565.0,10944.0,9621.0,33.5,31.8,34.4,42310.0,4003.0,5819.0,6082.0,4265.0,5987.0
 Blacksmith Brewing Co,micro,114 Main St,Stevensville,Montana,59870-2109,-114.0929303,46.51154971,Montana,59870,1013,,,,,,,,,,,,,,,
-Blackstone Brewing Co,micro,2312 Clifton Ave,Nashville,Tennessee,37209-4115,-86.80974363,36.15796783,Tennessee,37209,1015,,,,,,,,,,,,,,,
+Blackstone Brewing Co,micro,2312 Clifton Ave,Nashville,Tennessee,37209-4115,-86.80974363,36.15796783,Tennessee,37209,1015,"Nashville-Davidson metropolitan government (balance), Tennessee",47.0,52006.0,678845.0,327201.0,351644.0,34.9,34.5,35.2,33896.0,2259.0,3570.0,4378.0,3687.0,4095.0
 Blackwater Brewing Co,micro,912 William Ave,Davis,West Virginia,26260-0356,-79.4695264,39.1274943,West Virginia,26260,1016,,,,,,,,,,,,,,,
 Blackwater Draw Brewing Company,brewpub,701 N Main,Bryan,Texas,77803,-96.35277742,30.6580876,Texas,77803,1017,"Bryan city, Texas",48.0,10912.0,86851.0,43764.0,43087.0,31.2,30.0,32.7,52013.0,3395.0,6118.0,9157.0,7020.0,4279.0
 Blaker Brewing,micro,1063 Montcalire Dr,Ceres,California,95307,-120.9797388,37.57642992,California,95307,1018,"Ceres city, California",6.0,12524.0,49285.0,25784.0,23501.0,32.3,31.9,33.0,48398.0,3172.0,4601.0,5350.0,6892.0,7246.0
@@ -759,13 +759,13 @@ Blue Point Brewing,large,225 West Main St,Patchogue,New York,11772,-73.02103705,
 Blue Point Brewing Co,large,161 River Ave,Patchogue,New York,11772-3304,-73.0216063,40.75913445,New York,11772,1064,,,,,,,,,,,,,,,
 Blue Ridge Brewing Co/Foothills Brewing,brewpub,308 Trade St,Greer,South Carolina,29651-3432,-82.2262648,34.9361559,South Carolina,29651,1065,"Greer city, South Carolina",45.0,30985.0,38429.0,18538.0,19891.0,36.5,33.1,41.9,19220.0,1805.0,2976.0,2491.0,2740.0,1578.0
 Blue Skye Brewery,brewpub,116 N Santa Fe Ave,Salina,Kansas,67401-2614,-97.608998,38.84100296,Kansas,67401,1067,"Salina city, Kansas",20.0,62700.0,46008.0,22963.0,23045.0,39.8,39.8,39.8,67521.0,4983.0,9402.0,8159.0,9172.0,9114.0
-Blue Stallion Brewing Company,micro,610 W Third St,Lexington,Kentucky,40508-1243,-84.50136234,38.05710985,Kentucky,40508,1070,,,,,,,,,,,,,,,
+Blue Stallion Brewing Company,micro,610 W Third St,Lexington,Kentucky,40508-1243,-84.50136234,38.05710985,Kentucky,40508,1070,"Lexington-Fayette urban county, Kentucky",21.0,46027.0,321793.0,158232.0,163561.0,35.3,34.2,36.3,628577.0,57322.0,91943.0,81506.0,73456.0,83457.0
 Blue Star Brewing Co,brewpub,1414 S Alamo St # 105,San Antonio,Texas,78210-1117,-98.49615307,29.40989569,Texas,78210,1071,"San Antonio city, Texas",48.0,65000.0,1451863.0,715140.0,736723.0,34.1,33.3,35.0,24774.0,3030.0,2814.0,2450.0,2548.0,2755.0
 Blue Tractor Brewing Co,brewpub,207 E Washington St,Ann Arbor,Michigan,48104-2007,-83.74704578,42.28052759,Michigan,48104,1072,"Ann Arbor city, Michigan",26.0,3000.0,121541.0,59341.0,62200.0,28.2,28.0,28.4,24681.0,3362.0,5732.0,2858.0,4075.0,2447.0
 Bluebird Brasserie,brewpub,13730 Ventura Blvd,Sherman Oaks,California,91423,-118.4365891,34.1489109,California,91423,1075,,,,,,,,,,,,,,,
 Bluebird Microcreamery and Brewery,micro,7415 Greenwood Ave N,Seattle,Washington,98103-5044,-122.355108,47.6826657,Washington,98103,1076,"Seattle city, Washington",53.0,63000.0,733904.0,371600.0,362304.0,35.5,35.4,35.6,57934.0,1616.0,10074.0,7445.0,8490.0,7573.0
 Bluebonnet Beer Co,micro,1700 Bryant Dr Ste 107,Round Rock,Texas,78664-3898,-97.645332,30.491657,Texas,78664,1077,"Round Rock city, Texas",48.0,63500.0,127130.0,62833.0,64297.0,35.3,34.8,36.2,61652.0,6476.0,7071.0,7027.0,10798.0,10224.0
-Bluegrass Brewing Co - Brewpub,brewpub,300 W Main St,Louisville,Kentucky,40202-2945,-85.75508898,38.25620645,Kentucky,40202,1078,,,,,,,,,,,,,,,
+Bluegrass Brewing Co - Brewpub,brewpub,300 W Main St,Louisville,Kentucky,40202-2945,-85.75508898,38.25620645,Kentucky,40202,1078,"Louisville/Jefferson County metro government (balance), Kentucky",21.0,48006.0,628577.0,305076.0,323501.0,37.9,36.7,39.0,30829.0,2074.0,4373.0,4569.0,3928.0,3555.0
 Bluejacket,brewpub,300 Tingey St SE,Washington,District of Columbia,20003-4625,-77.0006981,38.8750965,District of Columbia,20003,1079,"Washington city, District of Columbia",11.0,50000.0,670050.0,319025.0,351025.0,34.8,34.7,35.0,95779.0,13294.0,15015.0,9033.0,18984.0,11808.0
 Blues City Brewing Co,regional,5151 E Raines Rd,Memphis,Tennessee,38118-7026,-89.8874019,35.0350188,Tennessee,38118,1081,"Memphis city, Tennessee",47.0,48000.0,628118.0,296266.0,331852.0,34.3,32.9,35.7,30766.0,2396.0,4297.0,3442.0,4487.0,2613.0
 Bluestone Brewing Company,brewpub,18 Pitney St,Sayre,Pennsylvania,18840-2720,-76.54508776,41.99222929,Pennsylvania,18840,1082,,,,,,,,,,,,,,,
@@ -1064,7 +1064,7 @@ Cabin Boys Brewery,micro,1717 E. 7th Steeet,Tulsa,Oklahoma,74104,-95.966947,36.1
 Cabinet Mountain Brewing Co,brewpub,206 Mineral Ave,Libby,Montana,59923-1952,-115.5506412,48.3936508,Montana,59923,1503,,,,,,,,,,,,,,,
 Caboose Brewing Co.,brewpub,520 Mill St NE,Vienna,Virginia,22180-4526,-77.2705542,38.9077525,Virginia,22180,1504,,,,,,,,,,,,,,,
 Cafe Karibo,brewpub,27 N 3rd St,Fernandina Beach,Florida,32034-4111,-81.46300291,30.6716253,Florida,32034,1506,,,,,,,,,,,,,,,
-Cage Brewing,micro,2001 1st Ave S,Saint Petersburg,Florida,33712-1201,-82.660409,27.770292,Florida,33712,1507,,,,,,,,,,,,,,,
+Cage Brewing,micro,2001 1st Ave S,Saint Petersburg,Florida,33712-1201,-82.660409,27.770292,Florida,33712,1507,"St. Petersburg city, Florida",12.0,63000.0,258214.0,123464.0,134750.0,41.9,41.1,42.6,60676.0,6153.0,10649.0,9269.0,7204.0,7030.0
 Cairn Brewing,micro,7204 NE 175th St,Kenmore,Washington,98028-3561,-122.2440866,47.7571424,Washington,98028,1509,"Kenmore city, Washington",53.0,35170.0,24133.0,11894.0,12239.0,38.8,38.9,38.0,84478.0,8118.0,12839.0,10172.0,8607.0,9729.0
 Cajun Brewing,micro,206 Rayburn St,Lafayette,Louisiana,70506-4130,-92.04978922,30.21549043,Louisiana,70506,1510,"Lafayette city, Louisiana",22.0,40735.0,121763.0,61224.0,60539.0,36.2,35.0,37.3,81102.0,8776.0,12682.0,9046.0,9021.0,11012.0
 Calapooia Brewing Co / Siletz Ales,micro,140 NE Hill St,Albany,Oregon,97321-3002,-123.0937773,44.6394668,Oregon,97321,1511,"Albany city, Oregon",41.0,1000.0,56007.0,28734.0,27273.0,36.9,36.1,38.7,50941.0,4169.0,9217.0,6412.0,7680.0,6134.0
@@ -1167,7 +1167,7 @@ Charles Towne Fermentory,micro,809 Savannah Hwy,Charleston,South Carolina,29407-
 Charleville Vineyard & Microbrewery,micro,16937 Boyd Rd,Sainte Genevieve,Missouri,63670-7914,-90.150279,37.757916,Missouri,63670,1660,,,,,,,,,,,,,,,
 "Charlie's Steak, Ribs & Ale",brewpub,3009 W 76 Country Blvd,Branson,Missouri,65616-8312,-93.275808,36.639618,Missouri,65616,1662,,,,,,,,,,,,,,,
 Charter Oak Brewing Company LLC,contract,39B Shelter Rock Rd,Danbury,Connecticut,06810-7043,-73.40421711,41.3961903,Connecticut,06810,1664,"Danbury city, Connecticut",9.0,18430.0,86749.0,41381.0,45368.0,41.7,40.2,42.2,50733.0,4643.0,7036.0,5631.0,6347.0,8025.0
-Chase Brewing Company / Chase Tap Room,brewpub,266 Jefferson St,Lexington,Kentucky,40508-1217,-84.4986682,38.0546834,Kentucky,40508,1665,,,,,,,,,,,,,,,
+Chase Brewing Company / Chase Tap Room,brewpub,266 Jefferson St,Lexington,Kentucky,40508-1217,-84.4986682,38.0546834,Kentucky,40508,1665,"Lexington-Fayette urban county, Kentucky",21.0,46027.0,321793.0,158232.0,163561.0,35.3,34.2,36.3,628577.0,57322.0,91943.0,81506.0,73456.0,83457.0
 Chatham Brewing LLC,micro,59 Main St,Chatham,New York,12037-1249,-73.59546931,42.36315065,New York,12037,1666,,,,,,,,,,,,,,,
 Chatoe Rogue Farmstead Brewery,closed,3590 Wigrich Rd,Independence,Oregon,97351-9708,-123.0958477,44.80583507,Oregon,97351,1667,,,,,,,,,,,,,,,
 Chattabrewchee Southern Brewhouse,micro,709 4th Ave,West Point,Georgia,31833-1506,-85.18536152,32.87625763,Georgia,31833,1668,,,,,,,,,,,,,,,
@@ -1339,7 +1339,7 @@ Coronado Brewing Co - Production Facility,regional,170 Orange Ave,San Diego,Cali
 Corrales Bistro Brewery,brewpub,4908 Corrales Rd,Corrales,New Mexico,87048-8613,-106.6127225,35.2298508,New Mexico,87048,1890,,,,,,,,,,,,,,,
 Corralitos Brewing Co,micro,2536 Freedom Blvd,Watsonville,California,95076-1046,-121.7623105,36.9239241,California,95076,1891,"Watsonville city, California",6.0,83668.0,52068.0,25851.0,26217.0,30.6,34.1,28.3,19064.0,1348.0,2925.0,2163.0,2174.0,3425.0
 Corridor Brewery & Provisions,brewpub,3446 N Southport Ave,Chicago,Illinois,60657-1420,-87.6643524,41.9447594,Illinois,60657,1892,"Chicago city, Illinois",17.0,14000.0,2696561.0,1309551.0,1387010.0,35.8,35.2,36.5,26904.0,2438.0,3524.0,3371.0,2637.0,4524.0
-Corsair Artisan LLC,micro,1200 Clinton St Ste 110,Nashville,Tennessee,37203-2894,-86.794546,36.165123,Tennessee,37203,1893,,,,,,,,,,,,,,,
+Corsair Artisan LLC,micro,1200 Clinton St Ste 110,Nashville,Tennessee,37203-2894,-86.794546,36.165123,Tennessee,37203,1893,"Nashville-Davidson metropolitan government (balance), Tennessee",47.0,52006.0,678845.0,327201.0,351644.0,34.9,34.5,35.2,33896.0,2259.0,3570.0,4378.0,3687.0,4095.0
 Cortland Beer Company,micro,16 Court St,Cortland,New York,13045-2604,-76.17989771,42.5994031,New York,13045,1894,,,,,,,,,,,,,,,
 Cosmic Brewery,micro,20316 Gramercy Pl,Torrance,California,90501-1511,-118.3131167,33.84500094,California,90501,1895,"Torrance city, California",6.0,80000.0,143589.0,72223.0,71366.0,44.1,42.9,46.1,95384.0,7508.0,11454.0,15659.0,10968.0,10040.0
 Cosmic Eye Brewing,micro,6800 P St #300,Lincoln,Nebraska,68505-2463,-96.6271153,40.8154683,Nebraska,68505,1896,"Lincoln city, Nebraska",31.0,28000.0,292648.0,147855.0,144793.0,33.3,32.6,34.0,23398.0,2488.0,3316.0,3171.0,2075.0,3309.0
@@ -1355,7 +1355,7 @@ Council Brewing Company,micro,7705 Convoy Ct,San Diego,California,92111-1105,-11
 Council Brewing Company,micro,9962 Prospect Ave,Santee,California,92071,-116.97958,32.832115,California,92071,1907,"Santee city, California",6.0,70224.0,59700.0,29304.0,30396.0,38.2,37.9,38.3,30161.0,2260.0,1705.0,2781.0,4948.0,5169.0
 Counterbalance Brewing Company,micro,503 S Michigan St Ste B,Seattle,Washington,98108-3305,-122.3279252,47.54555555,Washington,98108,1909,"Seattle city, Washington",53.0,63000.0,733904.0,371600.0,362304.0,35.5,35.4,35.6,57934.0,1616.0,10074.0,7445.0,8490.0,7573.0
 Counterweight Brewing Company,micro,23 Raccio Park Rd,Hamden,Connecticut,06514-1331,-72.91955341,41.39321167,Connecticut,06514,1910,,,,,,,,,,,,,,,
-Country Boy Brewing,micro,436 Chair Ave,Lexington,Kentucky,40508-3106,-84.50925267,38.0439487,Kentucky,40508,1911,,,,,,,,,,,,,,,
+Country Boy Brewing,micro,436 Chair Ave,Lexington,Kentucky,40508-3106,-84.50925267,38.0439487,Kentucky,40508,1911,"Lexington-Fayette urban county, Kentucky",21.0,46027.0,321793.0,158232.0,163561.0,35.3,34.2,36.3,628577.0,57322.0,91943.0,81506.0,73456.0,83457.0
 County Line Brewing,micro,9115 W Chinden Blvd Ste 107,Garden City,Idaho,83714-1903,-116.295667,43.655342,Idaho,83714,1914,,,,,,,,,,,,,,,
 Court Avenue Brewing Co,brewpub,309 Court Ave Ste 100,Des Moines,Iowa,50309-2230,-93.620995,41.585503,Iowa,50309,1915,"Des Moines city, Iowa",19.0,21000.0,212333.0,105192.0,107141.0,35.1,35.2,35.0,59118.0,6957.0,9013.0,6378.0,5755.0,7840.0
 Courthouse Pub,brewpub,1001 S 8th St,Manitowoc,Wisconsin,54220-5307,-87.65789588,44.08950638,Wisconsin,54220,1916,"Manitowoc city, Wisconsin",55.0,48500.0,34550.0,17697.0,16853.0,44.1,41.4,48.4,38911.0,2426.0,4022.0,6104.0,4821.0,4994.0
@@ -1431,18 +1431,18 @@ Culture Brewing Co,micro,327 Manhattan Beach Blvd,Manhattan Beach,California,902
 Culture Brewing Co,micro,111 S Cedros Ave Ste 200,Solana Beach,California,92075-2906,-117.2706515,32.99180086,California,92075,2011,,,,,,,,,,,,,,,
 Danville Brewing Company,brewpub,200 Railroad Ave Ste A,Danville,California,94526-3855,-122.0001333,37.82112378,California,94526,2012,"Danville town, California",6.0,17988.0,43240.0,22235.0,21005.0,46.3,43.7,47.9,66798.0,22053.0,9141.0,6421.0,6990.0,4998.0
 Culver Beer Company,micro,2719 Loker Ave W Ste D,Carlsbad,California,92010-6679,-117.258331,33.13307453,California,92010,2013,"Carlsbad city, California",6.0,11194.0,115291.0,56167.0,59124.0,46.3,42.9,49.9,81039.0,7288.0,11615.0,9421.0,9146.0,10706.0
-Cumberland Brewery,brewpub,1576 Bardstown Rd,Louisville,Kentucky,40205-1154,-85.70553172,38.23084195,Kentucky,40205,2014,,,,,,,,,,,,,,,
+Cumberland Brewery,brewpub,1576 Bardstown Rd,Louisville,Kentucky,40205-1154,-85.70553172,38.23084195,Kentucky,40205,2014,"Louisville/Jefferson County metro government (balance), Kentucky",21.0,48006.0,628577.0,305076.0,323501.0,37.9,36.7,39.0,30829.0,2074.0,4373.0,4569.0,3928.0,3555.0
 Currahee Brewing Company,micro,25 S Main St,Alpharetta,Georgia,30009,-84.2967826,34.0711104,Georgia,30009,2015,"Alpharetta city, Georgia",13.0,1696.0,66108.0,33837.0,32271.0,40.6,37.2,43.9,126006.0,33756.0,20750.0,13484.0,11093.0,11378.0
 Currahee Brewing Company,micro,100 Lakeside Dr,Franklin,North Carolina,28734-9706,-83.37194784,35.18754718,North Carolina,28734,2016,,,,,,,,,,,,,,,
 Cushnoc Brewing Company,brewpub,243 Water St,Augusta,Maine,04330-4615,-69.77344232,44.31664349,Maine,04330,2018,,,,,,,,,,,,,,,
 Cut Bank Creek Brewery,micro,315 E Railroad St,Cut Bank,Montana,59427-3021,-112.3270765,48.63443064,Montana,59427,2020,,,,,,,,,,,,,,,
 Cuyuna Brewing Company,micro,1 E Main St,Crosby,Minnesota,56441-1613,-93.950606,46.482495,Minnesota,56441,2021,,,,,,,,,,,,,,,
-Cycle Brewing,micro,534 Central Ave,St Petersburg,Florida,33701-3704,-82.6409282,27.7709069,Florida,33701,2022,"St. Petersburg city, Florida",12.0,63000.0,258214.0,123464.0,134750.0,41.9,41.1,42.6,60676.0,6153.0,10649.0,9269.0,7204.0,7030.0
-Cycle Brewing Production and Warehouse,micro,2135 5th Ave S,Saint Petersburg,Florida,33712-1304,-82.66222158,27.76663544,Florida,33712,2023,,,,,,,,,,,,,,,
+Cycle Brewing,micro,534 Central Ave,St Petersburg,Florida,33701-3704,-82.6409282,27.7709069,Florida,33701,2022,,,,,,,,,,,,,,,
+Cycle Brewing Production and Warehouse,micro,2135 5th Ave S,Saint Petersburg,Florida,33712-1304,-82.66222158,27.76663544,Florida,33712,2023,"St. Petersburg city, Florida",12.0,63000.0,258214.0,123464.0,134750.0,41.9,41.1,42.6,60676.0,6153.0,10649.0,9269.0,7204.0,7030.0
 Cynosure Brewing,micro,144 E Potter Dr Unit E,Anchorage,Alaska,99518-1363,-149.881789,61.168841,Alaska,99518,2025,"Anchorage municipality, Alaska",2.0,3000.0,288121.0,147647.0,140474.0,35.2,33.9,36.0,288121.0,27344.0,47051.0,42922.0,32763.0,32652.0
 Cypress and Grove Brewing Company,micro,1001 NW 4th Street,Gainesville,Florida,32601-4256,-82.328751,29.661257,Florida,32601,2026,"Gainesville city, Florida",12.0,25175.0,140406.0,66022.0,74384.0,27.7,26.8,29.3,21025.0,1350.0,2728.0,4111.0,2850.0,1550.0
 Cypress Creek Southern Ales,micro,200 E Carnegie St,Winnsboro,Texas,75494-3206,-95.288727,32.955986,Texas,75494,2028,,,,,,,,,,,,,,,
-Czann's Brewing,micro,505 Lea Ave,Nashville,Tennessee,37203-4499,-86.77422743,36.1533486,Tennessee,37203,2029,,,,,,,,,,,,,,,
+Czann's Brewing,micro,505 Lea Ave,Nashville,Tennessee,37203-4499,-86.77422743,36.1533486,Tennessee,37203,2029,"Nashville-Davidson metropolitan government (balance), Tennessee",47.0,52006.0,678845.0,327201.0,351644.0,34.9,34.5,35.2,33896.0,2259.0,3570.0,4378.0,3687.0,4095.0
 Czig Meister Brewing Co.,micro,106 Valentine St,Hackettstown,New Jersey,07840-2156,-74.83148308,40.8543396,New Jersey,07840,2030,,,,,,,,,,,,,,,
 D. G. Yuengling and Son Inc,regional,11111 N 30th St,Tampa,Florida,33612-6439,-82.42608918,28.04767978,Florida,33612,2031,"Tampa city, Florida",12.0,71000.0,387037.0,190098.0,196939.0,35.8,35.6,35.9,25558.0,1173.0,2382.0,2834.0,2814.0,5306.0
 D. G. Yuengling and Son Inc,regional,500 Mahantongo St,Pottsville,Pennsylvania,17901,-76.198585,40.682674,Pennsylvania,17901,2032,,,,,,,,,,,,,,,
@@ -1533,7 +1533,7 @@ Detroit Beer Co,brewpub,1529 Broadway St Ste 100,Detroit,Michigan,48226-2141,-83
 Device Brewing Company,micro,8166 14th Ave,Sacramento,California,95826-4722,-121.4059371,38.53949252,California,95826,2158,"Sacramento city, California",6.0,64000.0,525028.0,257437.0,267591.0,36.3,35.0,38.1,162780.0,17446.0,22421.0,23546.0,18177.0,13984.0
 Devil Wind Brewing LLC,micro,130 S Detroit St,Xenia,Ohio,45385,-83.92913685,39.68294798,Ohio,45385,2160,"Xenia city, Ohio",39.0,86772.0,25460.0,12581.0,12879.0,39.0,36.5,47.5,60271.0,7326.0,7619.0,6808.0,7518.0,6522.0
 Devil's Canyon Brewing Company,micro,935 Washington St,San Carlos,California,94070-5316,-122.2445413,37.49896576,California,94070,2161,"San Carlos city, California",6.0,65070.0,30023.0,14677.0,15346.0,43.0,40.6,45.2,63898.0,5056.0,8207.0,6265.0,9627.0,9867.0
-Devil's Club Brewing,brewpub,100 N Franklin St,Juneau,Alaska,99801-1223,-134.406956,58.301309,Alaska,99801,2162,,,,,,,,,,,,,,,
+Devil's Club Brewing,brewpub,100 N Franklin St,Juneau,Alaska,99801-1223,-134.406956,58.301309,Alaska,99801,2162,"Juneau city and borough, Alaska",2.0,36400.0,31973.0,15153.0,16820.0,39.4,39.6,38.9,31973.0,2812.0,5492.0,4260.0,3533.0,4804.0
 Devil's Creek Brewery,micro,1 Powell Ln,Collingswood,New Jersey,08108-1945,-75.0712461,39.9169234,New Jersey,08108,2163,,,,,,,,,,,,,,,
 Devil's Kettle Brewing,micro,97 Columbus Rd,Athens,Ohio,45701-1313,-82.09543176,39.34871425,Ohio,45701,2164,"Athens city, Ohio",39.0,2736.0,23043.0,11096.0,11947.0,21.0,21.8,20.3,29788.0,1978.0,4963.0,3496.0,3227.0,4300.0
 Devil's Potion Brewing Company LLC,planning,,Escondido,California,92026-3187,-117.0814849,33.1216751,California,92026,2165,"Escondido city, California",6.0,22804.0,150656.0,73785.0,76871.0,36.7,36.3,37.2,26487.0,1656.0,3084.0,4002.0,4002.0,2957.0
@@ -1564,7 +1564,7 @@ Dirty Oar Beer Company,micro,329 W King St,Cocoa,Florida,32922-4607,-80.7473064,
 Discovery Bay Brewing,micro,948 N Park Avenue,Port Townsend,Washington,98368-1512,-122.8030594,48.1065812,Washington,98368,2197,,,,,,,,,,,,,,,
 Discretion Brewing,micro,2703 41st Ave Ste A& # B,Soquel,California,95073-3104,-121.9659512,36.98629328,California,95073,2198,,,,,,,,,,,,,,,
 Disgruntled Brewing,micro,735 2nd St NE,Perham,Minnesota,56573-1828,-95.55777031,46.59047473,Minnesota,56573,2199,,,,,,,,,,,,,,,
-"Dissent Craft Brewing Company, LLC",micro,5518 Haines Rd N,Saint Petersburg,Florida,33714-1999,-82.66998676,27.82225781,Florida,33714,2200,,,,,,,,,,,,,,,
+"Dissent Craft Brewing Company, LLC",micro,5518 Haines Rd N,Saint Petersburg,Florida,33714-1999,-82.66998676,27.82225781,Florida,33714,2200,"St. Petersburg city, Florida",12.0,63000.0,258214.0,123464.0,134750.0,41.9,41.1,42.6,60676.0,6153.0,10649.0,9269.0,7204.0,7030.0
 District 1 Brewing Company,micro,200 Division St N,Stevens Point,Wisconsin,54481,-89.5634341,44.3786458,Wisconsin,54481,2203,"Stevens Point city, Wisconsin",55.0,77200.0,25698.0,12587.0,13111.0,29.7,29.4,30.7,36192.0,3005.0,4002.0,6426.0,4386.0,4468.0
 District 14 Brewery & Pub,brewpub,2273 S Howell Ave,Milwaukee,Wisconsin,53207-1325,-87.9095587,42.9581912,Wisconsin,53207,2204,"Milwaukee city, Wisconsin",55.0,53000.0,569326.0,275049.0,294277.0,32.3,31.2,33.1,27642.0,1764.0,2613.0,2705.0,3051.0,5509.0
 District 96 Beer Factory,brewpub,395 S Main St,New City,New York,10956,-73.99100071,41.13457391,New York,10956,2205,,,,,,,,,,,,,,,
@@ -1690,7 +1690,7 @@ East Channel Brewing Company,micro,209 Maple St,Munising,Michigan,49862-1084,-86
 East Cliff Brewing Company,micro,21517 E Cliff Dr,Santa Cruz,California,95062-4844,-122.0136488,36.9684053,California,95062,2365,"Santa Cruz city, California",6.0,69112.0,61938.0,30722.0,31216.0,32.8,32.4,33.0,109709.0,13628.0,13845.0,14732.0,12231.0,8215.0
 East End Brewing Co,micro,147 Julius St,Pittsburgh,Pennsylvania,15206,-79.91162696,40.45891137,Pennsylvania,15206,2366,"Pittsburgh city, Pennsylvania",42.0,61000.0,300454.0,146812.0,153642.0,34.2,32.9,35.4,26866.0,1739.0,3569.0,2942.0,4008.0,3512.0
 East Forty Brewing,micro,1201 W Main St,Blue Springs,Missouri,64015-3613,-94.279316,39.018709,Missouri,64015,2368,"Blue Springs city, Missouri",29.0,6652.0,59434.0,29655.0,29779.0,37.4,34.7,40.2,39820.0,8413.0,4797.0,5020.0,2661.0,3803.0
-East Nashville Beer Works,brewpub,320 E Trinity Ln,Nashville,Tennessee,37207-4524,-86.76320383,36.20526205,Tennessee,37207,2369,,,,,,,,,,,,,,,
+East Nashville Beer Works,brewpub,320 E Trinity Ln,Nashville,Tennessee,37207-4524,-86.76320383,36.20526205,Tennessee,37207,2369,"Nashville-Davidson metropolitan government (balance), Tennessee",47.0,52006.0,678845.0,327201.0,351644.0,34.9,34.5,35.2,33896.0,2259.0,3570.0,4378.0,3687.0,4095.0
 East West Brewing Co,brewpub,1400 Lake Dr SE,Grand Rapids,Michigan,49506,-85.634947,42.957318,Michigan,49506,2372,"Grand Rapids city, Michigan",26.0,34000.0,197423.0,97607.0,99816.0,32.8,32.3,33.4,28003.0,2426.0,4712.0,3605.0,2460.0,2157.0
 Eastern Market Brewing Company,micro,2515 Riopelle St,Detroit,Michigan,48207-4526,-83.03876229,42.346625,Michigan,48207,2374,"Detroit city, Michigan",26.0,22000.0,632589.0,301928.0,330661.0,35.3,34.1,36.5,46927.0,24415.0,5197.0,3646.0,2605.0,1938.0
 Eastern Shore Brewing,micro,605 S Talbot St,Saint Michaels,Maryland,21663,-76.2219945,38.78113562,Maryland,21663,2375,,,,,,,,,,,,,,,
@@ -1791,7 +1791,7 @@ Escutcheon Brewing Co.,micro,142 W Commercial St,Winchester,Virginia,22601-4828,
 Eskes Brew Pub,brewpub,106 Des Georges Pl,Taos,New Mexico,87571-6179,-105.5731656,36.4058929,New Mexico,87571,2503,,,,,,,,,,,,,,,
 Estes Park Brewery,micro,470 Prospect Village Dr,Estes Park,Colorado,80517,-105.5261317,40.3714876,Colorado,80517,2504,,,,,,,,,,,,,,,
 Eternity Brewing Co,micro,4060 E Grand River Ave,Howell,Michigan,48843-8583,-83.9948055,42.63273017,Michigan,48843,2505,,,,,,,,,,,,,,,
-Ethereal Brewing,micro,1224 Manchester St,Lexington,Kentucky,40504-1129,-84.5200035,38.056562,Kentucky,40504,2506,,,,,,,,,,,,,,,
+Ethereal Brewing,micro,1224 Manchester St,Lexington,Kentucky,40504-1129,-84.5200035,38.056562,Kentucky,40504,2506,"Lexington-Fayette urban county, Kentucky",21.0,46027.0,321793.0,158232.0,163561.0,35.3,34.2,36.3,628577.0,57322.0,91943.0,81506.0,73456.0,83457.0
 Etna Brewing Co LLC,micro,131 Callahan Street,Etna,California,96027,-122.8918305,41.45674141,California,96027,2507,,,,,,,,,,,,,,,
 ETX Brewing Co.,micro,221 S Broadway Ave,Tyler,Texas,75702-7302,-95.3081695,32.2553345,Texas,75702,2509,"Tyler city, Texas",48.0,74144.0,107199.0,53417.0,53782.0,33.9,31.6,36.8,20085.0,1797.0,2718.0,2114.0,3512.0,2187.0
 Eudora Brewing Co,micro,4716 Wilmington Pike,Dayton,Ohio,45440-2021,-84.162271,39.735916,Ohio,45440,2510,"Dayton city, Ohio",39.0,21000.0,137581.0,65054.0,72527.0,31.9,30.5,33.1,44423.0,4582.0,7348.0,6398.0,5814.0,3452.0
@@ -1832,7 +1832,7 @@ Fallbrook Brewing Co,micro,116 W Hawthorne St,Fallbrook,California,92028-,-117.2
 Falling Branch Brewery,micro,825 Highland Rd,Street,Maryland,21154-1312,-76.3708166,39.66665004,Maryland,21154,2553,,,,,,,,,,,,,,,
 Falling Down Beer Co.,brewpub,2270 E 10 Mile Rd,Warren,Michigan,48091-3701,-82.9805361,42.4787048,Michigan,48091,2554,"Warren city, Michigan",26.0,84000.0,138142.0,67133.0,71009.0,40.9,39.9,41.7,25347.0,2084.0,4384.0,3062.0,2704.0,3627.0
 Falling Sky Brewing,brewpub,1334 Oak Aly,Eugene,Oregon,97401-3190,-123.0921962,44.04539623,Oregon,97401,2555,"Eugene city, Oregon",41.0,23850.0,175102.0,86505.0,88597.0,34.8,34.5,35.2,26091.0,3344.0,2425.0,3248.0,3569.0,2151.0
-Falls City Brewing Company,micro,901 E Liberty St,Louisville,Kentucky,40204,-85.73625618,38.25036895,Kentucky,40204,2556,,,,,,,,,,,,,,,
+Falls City Brewing Company,micro,901 E Liberty St,Louisville,Kentucky,40204,-85.73625618,38.25036895,Kentucky,40204,2556,"Louisville/Jefferson County metro government (balance), Kentucky",21.0,48006.0,628577.0,305076.0,323501.0,37.9,36.7,39.0,30829.0,2074.0,4373.0,4569.0,3928.0,3555.0
 Fanatic Brewing Company,micro,2735 N Central St,Knoxville,Tennessee,37917,-83.94224452,35.99175106,Tennessee,37917,2559,"Knoxville city, Tennessee",47.0,40000.0,192657.0,94692.0,97965.0,33.6,32.4,35.5,39089.0,3951.0,4244.0,6238.0,4847.0,3748.0
 Fannin Brewing,micro,3758 E First St,Blue Ridge,Georgia,30513-4514,-84.31707477,34.87142613,Georgia,30513,2560,,,,,,,,,,,,,,,
 Fargo Brewing Co,micro,610 University Dr N,Fargo,North Dakota,58102-4342,-96.79937236,46.88326389,North Dakota,58102,2563,"Fargo city, North Dakota",38.0,25700.0,124843.0,61849.0,62994.0,31.8,32.5,31.4,58985.0,12507.0,9839.0,6644.0,5189.0,5187.0
@@ -1843,7 +1843,7 @@ Farmstrong Brewing Co,micro,110 Stewart Rd,Mount Vernon,Washington,98273-9628,-1
 Farnam House Brewing Company,brewpub,3558 Farnam St,Omaha,Nebraska,68131-3304,-95.96580178,41.2578153,Nebraska,68131,2571,"Omaha city, Nebraska",31.0,37000.0,487299.0,242649.0,244650.0,35.6,34.8,36.2,24105.0,1944.0,2296.0,2971.0,3859.0,3864.0
 Farnham Ale & Lager,micro,82 Ethan Allen Dr,South Burlington,Vermont,05403-5971,-73.15391274,44.48290389,Vermont,05403,2572,"South Burlington city, Vermont",50.0,66175.0,24218.0,12517.0,11701.0,37.7,36.2,39.6,154706.0,8125.0,31195.0,29915.0,20069.0,17306.0
 Fast Fashion Brewing,micro,730 N 34th St,Seattle,Washington,98103,-122.3484134,47.64970532,Washington,98103,2573,"Seattle city, Washington",53.0,63000.0,733904.0,371600.0,362304.0,35.5,35.4,35.6,57934.0,1616.0,10074.0,7445.0,8490.0,7573.0
-Fat Bottom Brewing,micro,800 44th Ave N,Nashville,Tennessee,37209-2336,-86.84031688,36.16044926,Tennessee,37209,2574,,,,,,,,,,,,,,,
+Fat Bottom Brewing,micro,800 44th Ave N,Nashville,Tennessee,37209-2336,-86.84031688,36.16044926,Tennessee,37209,2574,"Nashville-Davidson metropolitan government (balance), Tennessee",47.0,52006.0,678845.0,327201.0,351644.0,34.9,34.5,35.2,33896.0,2259.0,3570.0,4378.0,3687.0,4095.0
 Fat Boy Brewing Co,contract,2851 S Stratton Dr,Milwaukee,Wisconsin,53219-2759,-88.0130081,42.99227079,Wisconsin,53219,2575,"Milwaukee city, Wisconsin",55.0,53000.0,569326.0,275049.0,294277.0,32.3,31.2,33.1,27642.0,1764.0,2613.0,2705.0,3051.0,5509.0
 Fat Head's Brewery & Saloon,brewpub,24581 Lorain Rd,North Olmsted,Ohio,44070-2170,-81.89440993,41.42667743,Ohio,44070,2577,"North Olmsted city, Ohio",39.0,56882.0,31995.0,15765.0,16230.0,41.1,40.9,41.9,36238.0,2432.0,4210.0,5826.0,3593.0,5276.0
 Fat Head's Brewpub - Canton,brewpub,3885 Everhard Rd NW,Canton,Ohio,44709-4003,-81.41867571,40.85972436,Ohio,44709,2578,"Canton city, Ohio",39.0,12000.0,70438.0,34574.0,35864.0,40.9,38.7,42.5,24728.0,2225.0,2907.0,2936.0,2366.0,2646.0
@@ -1936,7 +1936,7 @@ Five Suns Brewing,micro,701 Escobar St Ste C,Martinez,California,94553,-122.1370
 Five Threads Brewing Company,micro,31133 Via Colinas Ste 109,Westlake Village,California,91362-4525,-118.801724,34.1529112,California,91362,2690,,,,,,,,,,,,,,,
 Five Window Beer Co,micro,9 W Locust St,Lodi,California,95240-2137,-121.29526,38.136971,California,95240,2691,"Lodi city, California",6.0,42202.0,67020.0,31759.0,35261.0,39.1,39.8,37.9,25070.0,3467.0,4278.0,3106.0,3035.0,2973.0
 Flag City Brewing,micro,618 W 4th St,Webb City,Missouri,64870,-94.467058,37.156896,Missouri,64870,2693,,,,,,,,,,,,,,,
-"Flagship Brewery, LLC.",micro,40 Minthorne St,Staten Island,New York,10301-3241,-74.0756332,40.6372257,New York,10301,2694,,,,,,,,,,,,,,,
+"Flagship Brewery, LLC.",micro,40 Minthorne St,New York,New York,10301-3241,-74.0756332,40.6372257,New York,10301,2694,"New York city, New York",36.0,51000.0,8467513.0,4066818.0,4400695.0,38.1,36.8,39.5,48364.0,4182.0,6049.0,6567.0,5865.0,5508.0
 Flagstaff Brewing Co,brewpub,16 E Route 66,Flagstaff,Arizona,86001-5792,-111.523296,35.2109064,Arizona,86001,2695,"Flagstaff city, Arizona",4.0,23620.0,76984.0,37720.0,39264.0,26.7,28.6,24.6,76984.0,23375.0,12060.0,8164.0,7645.0,7255.0
 Flapjack Brewery,brewpub,6833 Stanley Ave,Berwyn,Illinois,60402-5289,-87.79436281,41.83342484,Illinois,60402,2696,"Berwyn city, Illinois",17.0,5573.0,55765.0,29369.0,26396.0,38.7,37.1,42.0,20926.0,1132.0,2470.0,1937.0,3137.0,2634.0
 Flat 12 Bierwerks,micro,414 Dorman St,Indianapolis,Indiana,46202-3648,-86.13847,39.77261486,Indiana,46202,2697,"Indianapolis city (balance), Indiana",18.0,36003.0,882327.0,430589.0,451738.0,34.5,33.0,35.6,50568.0,3462.0,8741.0,6155.0,6845.0,5558.0
@@ -1966,7 +1966,7 @@ Flying Basset Brewing,brewpub,720 W Ray Rd,Gilbert,Arizona,85233,-111.8054389,33
 Flying Belgian Brewery,micro,211 Main St,Farmingdale,New York,11735-2675,-73.44588651,40.73359788,New York,11735,2731,,,,,,,,,,,,,,,
 Flying Bike Cooperative Brewery,micro,8570 Greenwood Ave N,Seattle,Washington,98103-3614,-122.3550721,47.6920561,Washington,98103,2732,"Seattle city, Washington",53.0,63000.0,733904.0,371600.0,362304.0,35.5,35.4,35.6,57934.0,1616.0,10074.0,7445.0,8490.0,7573.0
 Flying Bison Brewing Co,micro,840 Seneca St,Buffalo,New York,14210-1414,-78.8458326,42.8758185,New York,14210,2733,"Buffalo city, New York",36.0,11000.0,276804.0,132533.0,144271.0,34.5,33.4,35.9,34737.0,4539.0,4253.0,5019.0,3739.0,4340.0
-Flying Boat Brewing Company,micro,1776 11th Ave N,St Petersburg,Florida,33713-5747,-82.65719969,27.78284571,Florida,33713,2734,"St. Petersburg city, Florida",12.0,63000.0,258214.0,123464.0,134750.0,41.9,41.1,42.6,60676.0,6153.0,10649.0,9269.0,7204.0,7030.0
+Flying Boat Brewing Company,micro,1776 11th Ave N,St Petersburg,Florida,33713-5747,-82.65719969,27.78284571,Florida,33713,2734,,,,,,,,,,,,,,,
 Flying Dog Brewery,regional,4607 Wedgewood Blvd,Frederick,Maryland,21703-7120,-77.42679107,39.3628322,Maryland,21703,2735,"Frederick city, Maryland",24.0,30325.0,79588.0,37466.0,42122.0,37.9,37.4,38.2,69109.0,5970.0,11663.0,10806.0,9117.0,7577.0
 Flying Dreams Brewing Co.,micro,455B Park Ave,Worcester,Massachusetts,01610,-71.82618857,42.25419957,Massachusetts,01610,2736,"Worcester city, Massachusetts",25.0,82000.0,205917.0,99262.0,106655.0,33.6,33.2,33.9,22300.0,3231.0,3316.0,2902.0,1607.0,2615.0
 Flying Fish Brewing Co,regional,900 Kennedy Blvd,Somerdale,New Jersey,08083-1031,-75.02089526,39.85394176,New Jersey,08083,2737,,,,,,,,,,,,,,,
@@ -1984,11 +1984,11 @@ Fonta Flora Brewery,micro,317 N Green St,Morganton,North Carolina,28655-3324,-81
 Foolproof Brewing Company,micro,241 Grotto Ave,Pawtucket,Rhode Island,02860-3403,-71.41017837,41.86939069,Rhode Island,02860,2760,"Pawtucket city, Rhode Island",44.0,54640.0,75379.0,36799.0,38580.0,35.6,34.4,37.2,189697.0,29420.0,33808.0,26487.0,22271.0,17371.0
 Foothill Hops Farm Brewery,micro,5024 Bear Path Rd,Munnsville,New York,13409-4114,-75.58610382,42.96463213,New York,13409,2762,,,,,,,,,,,,,,,
 Foothills Brewing and Beverage Co,closed,25312 Kanaskat Dr,Black Diamond,Washington,98010,-122.006345,47.328838,Washington,98010,2763,,,,,,,,,,,,,,,
-Foothills Brewing Co,regional,3800 Kimwell Dr,Winston Salem,North Carolina,27103-6708,-80.32680515,36.04816426,North Carolina,27103,2764,,,,,,,,,,,,,,,
-Foothills Brewing Co Brewpub,brewpub,638 W 4th St,Winston Salem,North Carolina,27101-2730,-80.25085212,36.0976512,North Carolina,27101,2765,,,,,,,,,,,,,,,
+Foothills Brewing Co,regional,3800 Kimwell Dr,Winston Salem,North Carolina,27103-6708,-80.32680515,36.04816426,North Carolina,27103,2764,"Winston-Salem city, North Carolina",37.0,75000.0,250337.0,116795.0,133542.0,36.4,35.4,37.2,74141.0,6319.0,10251.0,10087.0,8461.0,9627.0
+Foothills Brewing Co Brewpub,brewpub,638 W 4th St,Winston Salem,North Carolina,27101-2730,-80.25085212,36.0976512,North Carolina,27101,2765,"Winston-Salem city, North Carolina",37.0,75000.0,250337.0,116795.0,133542.0,36.4,35.4,37.2,74141.0,6319.0,10251.0,10087.0,8461.0,9627.0
 For the Love of God Brewing,micro,2617 W Northwest Blvd,Spokane,Washington,99205,-117.4505585,47.68614962,Washington,99205,2766,"Spokane city, Washington",53.0,67000.0,229065.0,113856.0,115209.0,35.7,35.2,36.1,105912.0,9706.0,16950.0,13952.0,12485.0,13172.0
 Forager Brewing Company,brewpub,1005 6th St NW,Rochester,Minnesota,55901-2741,-92.47868101,44.02937696,Minnesota,55901,2767,"Rochester city, Minnesota",27.0,54880.0,121471.0,58112.0,63359.0,37.0,36.4,37.5,26628.0,2073.0,2185.0,4782.0,3626.0,3812.0
-Forbidden Peak Brewery,micro,11798 Glacier Hwy,Juneau,Alaska,99801,-134.645965,58.387811,Alaska,99801,2768,,,,,,,,,,,,,,,
+Forbidden Peak Brewery,micro,11798 Glacier Hwy,Juneau,Alaska,99801,-134.645965,58.387811,Alaska,99801,2768,"Juneau city and borough, Alaska",2.0,36400.0,31973.0,15153.0,16820.0,39.4,39.6,38.9,31973.0,2812.0,5492.0,4260.0,3533.0,4804.0
 Forbidden Root Restaurant & Brewery,micro,1746 W Chicago Ave,Chicago,Illinois,60622-5012,-87.6715393,41.8961658,Illinois,60622,2769,"Chicago city, Illinois",17.0,14000.0,2696561.0,1309551.0,1387010.0,35.8,35.2,36.5,26904.0,2438.0,3524.0,3371.0,2637.0,4524.0
 Fore River Brewing Company,micro,45 Huntress Ave,South Portland,Maine,04106-4115,-70.28767105,43.63249066,Maine,04106,2771,"South Portland city, Maine",23.0,71990.0,27000.0,13585.0,13415.0,45.8,46.7,43.6,20045.0,4446.0,2933.0,1474.0,1666.0,2382.0
 Forest & Main Brewery and Pub,brewpub,61 N Main St,Ambler,Pennsylvania,19002-5728,-75.2250879,40.1553233,Pennsylvania,19002,2773,,,,,,,,,,,,,,,
@@ -2179,7 +2179,7 @@ Good People Brewing Co,micro,114 14th St S,Birmingham,Alabama,35233-1415,-86.812
 Good River Beer Company,contract,1790 S Bannock St.,Denver,Colorado,80223,-104.9898169,39.68421218,Colorado,80223,3036,"Denver city, Colorado",8.0,20000.0,711463.0,358282.0,353181.0,35.1,35.1,35.1,20328.0,4138.0,3382.0,3208.0,2591.0,1527.0
 Good Times Brewing,brewpub,237 Maxwell Ave,Greenwood,South Carolina,29646-2616,-82.16363224,34.18989245,South Carolina,29646,3037,"Greenwood city, South Carolina",45.0,30895.0,19337.0,7920.0,11417.0,36.8,29.5,40.3,38429.0,1930.0,7958.0,5766.0,4921.0,3611.0
 GoodLife Brewing Company,regional,70 SW Century Ave 100-464,Bend,Oregon,97701,-121.3302942,44.05138311,Oregon,97701,3040,"Bend city, Oregon",41.0,5800.0,102079.0,52159.0,49920.0,41.2,39.5,42.2,32768.0,550.0,3555.0,6510.0,6757.0,3153.0
-Goodwood Brewing Co,micro,636 E Main St,Louisville,Kentucky,40202-1004,-85.7400684,38.254635,Kentucky,40202,3042,,,,,,,,,,,,,,,
+Goodwood Brewing Co,micro,636 E Main St,Louisville,Kentucky,40202-1004,-85.7400684,38.254635,Kentucky,40202,3042,"Louisville/Jefferson County metro government (balance), Kentucky",21.0,48006.0,628577.0,305076.0,323501.0,37.9,36.7,39.0,30829.0,2074.0,4373.0,4569.0,3928.0,3555.0
 Goose Island Beer Co / Fulton St,large,1800 W Fulton St,Chicago,Illinois,60612-2512,-87.6722122,41.8870058,Illinois,60612,3044,"Chicago city, Illinois",17.0,14000.0,2696561.0,1309551.0,1387010.0,35.8,35.2,36.5,26904.0,2438.0,3524.0,3371.0,2637.0,4524.0
 Goose Island Philadelphia,brewpub,1002 Canal St,Philadelphia,Pennsylvania,19123,-75.13506341,39.9648491,Pennsylvania,19123,3046,"Philadelphia city, Pennsylvania",42.0,60000.0,1576251.0,749496.0,826755.0,35.2,34.0,36.4,300454.0,50635.0,61008.0,35173.0,28296.0,35089.0
 Gordon Biersch Brewery Restaurant - Atlanta,brewpub,3242 Peachtree Rd NE,Atlanta,Georgia,30305-2425,-84.3620936,33.8503143,Georgia,30305,3048,"Atlanta city, Georgia",13.0,4000.0,496480.0,243807.0,252673.0,34.3,34.0,34.6,200032.0,22173.0,31463.0,24969.0,20937.0,24358.0
@@ -2189,7 +2189,7 @@ Gordon Biersch Brewery Restaurant - Columbus,closed,401 N Front St Ste 120,Colum
 Gordon Biersch Brewery Restaurant - Glendale,brewpub,6915 N 95th Ave,Glendale,Arizona,85305-2488,-112.2638679,33.5050851,Arizona,85305,3055,"Glendale city, Arizona",4.0,27820.0,249627.0,125148.0,124479.0,36.1,33.9,39.1,249627.0,27022.0,35681.0,33564.0,30776.0,29642.0
 Gordon Biersch Brewery Restaurant - Honolulu,closed,1 Aloha Tower Dr Ste 1123,Honolulu,Hawaii,96813-4815,-157.86622,21.306704,Hawaii,96813,3056,"Urban Honolulu CDP, Hawaii",15.0,71550.0,345532.0,172555.0,172977.0,43.7,41.6,46.0,40414.0,4196.0,6377.0,4510.0,4188.0,4731.0
 Gordon Biersch Brewery Restaurant - Las Vegas,brewpub,3987 Paradise Rd,Las Vegas,Nevada,89169-4607,-115.1545679,36.1442243,Nevada,89169,3057,"Las Vegas city, Nevada",32.0,40000.0,646776.0,325837.0,320939.0,39.6,39.0,40.0,19959.0,364.0,1585.0,716.0,2076.0,2477.0
-Gordon Biersch Brewery Restaurant - Louisville,brewpub,400 S 4th St,Louisville,Kentucky,40202-3418,-85.7574044,38.2528789,Kentucky,40202,3058,,,,,,,,,,,,,,,
+Gordon Biersch Brewery Restaurant - Louisville,brewpub,400 S 4th St,Louisville,Kentucky,40202-3418,-85.7574044,38.2528789,Kentucky,40202,3058,"Louisville/Jefferson County metro government (balance), Kentucky",21.0,48006.0,628577.0,305076.0,323501.0,37.9,36.7,39.0,30829.0,2074.0,4373.0,4569.0,3928.0,3555.0
 Gordon Biersch Brewery Restaurant - Myrtle Beach,brewpub,3060 Howard Ave,Myrtle Beach,South Carolina,29577-1643,-78.939092,33.668327,South Carolina,29577,3059,"Myrtle Beach city, South Carolina",45.0,49075.0,37109.0,18258.0,18851.0,50.2,40.6,57.0,24406.0,632.0,2946.0,3149.0,3268.0,3406.0
 Gordon Biersch Brewery Restaurant - Navy  Yard,brewpub,100 M St SE,Washington,District of Columbia,20003-3519,-77.0052971,38.8766834,District of Columbia,20003,3060,"Washington city, District of Columbia",11.0,50000.0,670050.0,319025.0,351025.0,34.8,34.7,35.0,95779.0,13294.0,15015.0,9033.0,18984.0,11808.0
 Gordon Biersch Brewery Restaurant - New Orleans,brewpub,200 Poydras St,New Orleans,Louisiana,70130-1641,-90.0651027,29.9481058,Louisiana,70130,3061,"New Orleans city, Louisiana",22.0,55000.0,376971.0,178394.0,198577.0,38.3,37.7,39.0,35483.0,3320.0,5342.0,5278.0,3730.0,4586.0
@@ -2250,7 +2250,7 @@ Granite Mountain Brewing,micro,123 N Cortez St,Prescott,Arizona,86302-1109,-112.
 Granite Roots Brewing,micro,244 N Main St,Troy,New Hampshire,03465-,-72.18973144,42.84401358,New Hampshire,03465,3138,,,,,,,,,,,,,,,
 Granville Brewing Company,micro,5371 Columbus Rd,Granville,Ohio,43023-9192,-82.58861603,40.03527379,Ohio,43023,3139,,,,,,,,,,,,,,,
 Gravel Bottom Craft Brewery,micro,452 Ada Dr SE,Ada,Michigan,49301,-85.4857858,42.955144,Michigan,49301,3142,,,,,,,,,,,,,,,
-Gravely Brewing Co.,micro,514 Baxter Ave,Louisville,Kentucky,40204-1104,-85.7301702,38.2470763,Kentucky,40204,3143,,,,,,,,,,,,,,,
+Gravely Brewing Co.,micro,514 Baxter Ave,Louisville,Kentucky,40204-1104,-85.7301702,38.2470763,Kentucky,40204,3143,"Louisville/Jefferson County metro government (balance), Kentucky",21.0,48006.0,628577.0,305076.0,323501.0,37.9,36.7,39.0,30829.0,2074.0,4373.0,4569.0,3928.0,3555.0
 GravSouth Brewing Co.,brewpub,7950 Redwood Dr Ste 15,Cotati,California,94931-3054,-122.7140388,38.33255458,California,94931,3148,,,,,,,,,,,,,,,
 Gray Brewing Co,micro,2424 W Court St,Janesville,Wisconsin,53548,-89.04972689,42.67930794,Wisconsin,53548,3149,"Janesville city, Wisconsin",55.0,37825.0,65953.0,32478.0,33475.0,41.5,37.8,42.8,99285.0,10826.0,13142.0,14928.0,11273.0,12403.0
 Greasy Luck Brewery,brewpub,791 Purchase St,New Bedford,Massachusetts,02740-6345,-70.92607527,41.63507079,Massachusetts,02740,3152,"New Bedford city, Massachusetts",25.0,45000.0,100947.0,50997.0,49950.0,38.5,38.1,38.6,87455.0,11665.0,8428.0,11518.0,11474.0,10461.0
@@ -2273,8 +2273,8 @@ Great Dane Pub and Brewing Co- Wausau,brewpub,2305 Sherman St,Wausau,Wisconsin,5
 Great Divide Brewing Co,regional,2201 Arapahoe St,Denver,Colorado,80205-2512,-104.9885279,39.7539229,Colorado,80205,3173,"Denver city, Colorado",8.0,20000.0,711463.0,358282.0,353181.0,35.1,35.1,35.1,20328.0,4138.0,3382.0,3208.0,2591.0,1527.0
 Great Divide Brewing Co - RiNo Barrel Bar,micro,1812 35th St,Denver,Colorado,80216-3665,-104.979247,39.7703322,Colorado,80216,3174,"Denver city, Colorado",8.0,20000.0,711463.0,358282.0,353181.0,35.1,35.1,35.1,20328.0,4138.0,3382.0,3208.0,2591.0,1527.0
 Great Flats Brewing,micro,151 Lafayette St,Schenectady,New York,12305-2051,-73.93839638,42.81243538,New York,12305,3176,"Schenectady city, New York",36.0,65508.0,66985.0,34357.0,32628.0,37.8,33.2,41.5,20817.0,2272.0,2833.0,2380.0,3403.0,2890.0
-Great Flood Brewing,micro,2120 Bardstown Rd,Louisville,Kentucky,40205-1916,-85.6938076,38.2239974,Kentucky,40205,3177,,,,,,,,,,,,,,,
-Great Flood Brewing- Production Facility,micro,629 Bergman St,Louisville,Kentucky,40203-2618,-85.74511415,38.2290463,Kentucky,40203,3178,,,,,,,,,,,,,,,
+Great Flood Brewing,micro,2120 Bardstown Rd,Louisville,Kentucky,40205-1916,-85.6938076,38.2239974,Kentucky,40205,3177,"Louisville/Jefferson County metro government (balance), Kentucky",21.0,48006.0,628577.0,305076.0,323501.0,37.9,36.7,39.0,30829.0,2074.0,4373.0,4569.0,3928.0,3555.0
+Great Flood Brewing- Production Facility,micro,629 Bergman St,Louisville,Kentucky,40203-2618,-85.74511415,38.2290463,Kentucky,40203,3178,"Louisville/Jefferson County metro government (balance), Kentucky",21.0,48006.0,628577.0,305076.0,323501.0,37.9,36.7,39.0,30829.0,2074.0,4373.0,4569.0,3928.0,3555.0
 Great Frontier Brewing Company,micro,2010 S Oak St,Lakewood,Colorado,80227-2050,-105.1177216,39.6813614,Colorado,80227,3179,"Lakewood city, Colorado",8.0,43000.0,156612.0,77950.0,78662.0,39.4,38.5,40.7,45884.0,3144.0,6380.0,5441.0,4804.0,7710.0
 Great Heights Brewing Company,micro,938 Wakefield Dr,Houston,Texas,77018-6204,-95.4223629,29.8216738,Texas,77018,3180,"Houston city, Texas",48.0,35000.0,2287047.0,1124951.0,1162096.0,34.8,34.7,35.0,22835.0,1704.0,5221.0,3563.0,2384.0,2402.0
 Great Lakes Brewing Co,regional,1947 W 28th St,Cleveland,Ohio,44113-3422,-81.70571113,41.48405803,Ohio,44113,3181,"Cleveland city, Ohio",39.0,16000.0,368006.0,178621.0,189385.0,36.3,35.7,36.8,44660.0,5627.0,7063.0,6357.0,3916.0,3936.0
@@ -2286,7 +2286,7 @@ Great Raft Brewing,micro,1251 Dalzell St,Shreveport,Louisiana,71103-3705,-93.755
 Great River Brewery,micro,332 E 2nd St,Davenport,Iowa,52801-1702,-90.57063937,41.52138805,Iowa,52801,3191,"Davenport city, Iowa",19.0,19000.0,101010.0,50525.0,50485.0,39.2,38.1,40.9,212333.0,22826.0,35264.0,28549.0,23713.0,26909.0
 Great Waters Brewing Company,brewpub,426 Saint Peter St,Saint Paul,Minnesota,55102-1105,-93.096926,44.94672,Minnesota,55102,3194,"St. Paul city, Minnesota",27.0,58000.0,307176.0,150594.0,156582.0,33.2,33.2,33.2,23038.0,1368.0,2799.0,3673.0,2638.0,1454.0
 Greater Good Imperial Brew Co,brewpub,55 Millbrook St,Worcester,Massachusetts,01606,-71.80355503,42.2891295,Massachusetts,01606,3195,"Worcester city, Massachusetts",25.0,82000.0,205917.0,99262.0,106655.0,33.6,33.2,33.9,22300.0,3231.0,3316.0,2902.0,1607.0,2615.0
-Green Bench Brewing Co,micro,1133 Baum Ave N,Saint Petersburg,Florida,33705-1555,-82.65067185,27.7717121,Florida,33705,3196,,,,,,,,,,,,,,,
+Green Bench Brewing Co,micro,1133 Baum Ave N,Saint Petersburg,Florida,33705-1555,-82.65067185,27.7717121,Florida,33705,3196,"St. Petersburg city, Florida",12.0,63000.0,258214.0,123464.0,134750.0,41.9,41.1,42.6,60676.0,6153.0,10649.0,9269.0,7204.0,7030.0
 Green Bus Brewing,brewpub,206 Eustis Ave SE,Huntsville,Alabama,35801-4233,-86.58405136,34.73010503,Alabama,35801,3198,"Huntsville city, Alabama",1.0,37000.0,215482.0,106904.0,108578.0,38.0,37.1,39.0,215482.0,23658.0,33498.0,30325.0,21628.0,28330.0
 Green Cheek Beer Company,micro,2957 Randolph Av unit B,Costa Mesa,California,92626,-117.8882255,33.67893714,California,92626,3199,"Costa Mesa city, California",6.0,16532.0,110750.0,54741.0,56009.0,37.1,37.4,36.8,50416.0,4817.0,8265.0,6602.0,6240.0,7099.0
 Green Cheek Beer Company,micro,2294 N Batavia St Ste C,Orange,California,92865-3108,-117.8639647,33.82585285,California,92865,3200,"Orange city, California",6.0,53980.0,137287.0,67719.0,69568.0,35.6,35.2,36.5,35404.0,1113.0,3212.0,5445.0,3955.0,5295.0
@@ -2502,7 +2502,7 @@ Hold Out Brewing,micro,1208 W 4th St,Austin,Texas,78703-5203,-97.7611333,30.2713
 Hollister Brewing Co,brewpub,6980 Market Place Dr,Goleta,California,93117-2997,-119.873842,34.428764,California,93117,3510,"Goleta city, California",6.0,30378.0,32845.0,16788.0,16057.0,38.8,37.3,41.9,19351.0,1578.0,539.0,1423.0,3213.0,3596.0
 Hollow Earth Brewing Co,brewpub,19 N 3rd St,Oxford,Pennsylvania,19363-1423,-75.97857656,39.78586182,Pennsylvania,19363,3511,,,,,,,,,,,,,,,
 Hollywood Brewing Co,micro,3410 N 29th Ave,Hollywood,Florida,33020-1002,-80.1658845,26.0405657,Florida,33020,3512,"Hollywood city, Florida",12.0,32000.0,152139.0,76852.0,75287.0,41.4,39.8,43.3,80523.0,6340.0,12716.0,12037.0,10068.0,8848.0
-Holsopple Brewing,micro,8023 Catherine Ln,Louisville,Kentucky,40222-4793,-85.6064539,38.2598078,Kentucky,40222,3514,,,,,,,,,,,,,,,
+Holsopple Brewing,micro,8023 Catherine Ln,Louisville,Kentucky,40222-4793,-85.6064539,38.2598078,Kentucky,40222,3514,"Louisville/Jefferson County metro government (balance), Kentucky",21.0,48006.0,628577.0,305076.0,323501.0,37.9,36.7,39.0,30829.0,2074.0,4373.0,4569.0,3928.0,3555.0
 Holston River Brewing Company,micro,2623 Volunteer Pkwy,Bristol,Tennessee,37620-,-82.1910353,36.574583,Tennessee,37620,3515,"Bristol city, Tennessee",47.0,8540.0,27528.0,11573.0,15955.0,42.4,43.0,41.3,182111.0,19476.0,29441.0,21431.0,18144.0,23502.0
 Holy City Brewing,micro,1021 Aragon Ave,North Charleston,South Carolina,29405-4903,-79.97884,32.87298,South Carolina,29405,3516,"North Charleston city, South Carolina",45.0,50875.0,117463.0,56047.0,61416.0,34.6,33.0,35.9,19727.0,451.0,841.0,1468.0,2794.0,4021.0
 Holy Mountain Brewing Co,micro,1421 Elliott Ave W,Seattle,Washington,98119-3104,-122.3745615,47.6308277,Washington,98119,3518,"Seattle city, Washington",53.0,63000.0,733904.0,371600.0,362304.0,35.5,35.4,35.6,57934.0,1616.0,10074.0,7445.0,8490.0,7573.0
@@ -2538,7 +2538,7 @@ Hop Valley Brewing Co,large,990 W 1st Ave,Eugene,Oregon,97402-4904,-123.1074506,
 Hop Valley Brewing Co,large,980 Kruse Way,Springfield,Oregon,97477-1073,-123.0399796,44.08270624,Oregon,97477,3567,"Springfield city, Oregon",41.0,69600.0,62250.0,32843.0,29407.0,38.6,36.3,41.6,55762.0,2966.0,10482.0,8631.0,5883.0,7611.0
 Hop'n Moose Brewing Company,brewpub,41 Center St,Rutland,Vermont,05701-4016,-72.97743,43.606783,Vermont,05701,3568,,,,,,,,,,,,,,,
 Hoparazzi Brewing Co,closed,2910 E La Palma Ave Ste D,Anaheim,California,92806-2618,-117.8636661,33.84931338,California,92806,3569,"Anaheim city, California",6.0,2000.0,345935.0,168784.0,177151.0,37.2,36.6,37.9,44991.0,2674.0,4298.0,8760.0,3660.0,6384.0
-Hopcat - Louisville,brewpub,1064 Bardstown Rd.,Louisville,Kentucky,40204,-85.7217319,38.2385242,Kentucky,40204,3571,,,,,,,,,,,,,,,
+Hopcat - Louisville,brewpub,1064 Bardstown Rd.,Louisville,Kentucky,40204,-85.7217319,38.2385242,Kentucky,40204,3571,"Louisville/Jefferson County metro government (balance), Kentucky",21.0,48006.0,628577.0,305076.0,323501.0,37.9,36.7,39.0,30829.0,2074.0,4373.0,4569.0,3928.0,3555.0
 Hopewell Brewing Co,micro,2760 N Milwaukee Ave,Chicago,Illinois,60647-1337,-87.7878762,41.9973481,Illinois,60647,3572,"Chicago city, Illinois",17.0,14000.0,2696561.0,1309551.0,1387010.0,35.8,35.2,36.5,26904.0,2438.0,3524.0,3371.0,2637.0,4524.0
 Hopfusion Ale Works,micro,200 E Broadway Ave,Fort Worth,Texas,76104-1302,-97.324895,32.741719,Texas,76104,3574,"Fort Worth city, Texas",48.0,27000.0,940437.0,449770.0,490667.0,32.9,33.1,32.7,22283.0,3431.0,2396.0,4137.0,2653.0,2828.0
 Hopkins Brewing Company,brewpub,1048 E 2100 S,Salt Lake City,Utah,84106,-111.8609503,40.7250545,Utah,84106,3575,"Salt Lake City city, Utah",49.0,67000.0,200475.0,101354.0,99121.0,32.5,32.8,31.9,95038.0,6239.0,11916.0,14504.0,10447.0,12272.0
@@ -2715,7 +2715,7 @@ Jack Russell's Steakhouse and Brewery / Maine Coast Brewing Co.,brewpub,102 Eden
 Jack's Abby Brewing,regional,100 Clinton St,Framingham,Massachusetts,01702-6748,-71.4109021,42.2800852,Massachusetts,01702,3812,"Framingham city, Massachusetts",25.0,24960.0,71260.0,37776.0,33484.0,36.6,34.3,38.4,33025.0,3786.0,2955.0,3499.0,6050.0,6123.0
 Jack's Brewing Co,brewpub,39176 Argonaut Way,Fremont,California,94538-1304,-121.9884025,37.5442084,California,94538,3813,"Fremont city, California",6.0,26000.0,227523.0,116772.0,110751.0,38.3,37.8,38.9,45247.0,3619.0,4904.0,7376.0,5824.0,3389.0
 Jack's Run Brewing Co,micro,108 North 21st Street,Purcellville,Virginia,20132,-77.71491185,39.13704895,Virginia,20132,3814,,,,,,,,,,,,,,,
-"Jackalope Brewing Company, LLC",micro,701 8th Ave S,Nashville,Tennessee,37203-4104,-86.7794989,36.1503817,Tennessee,37203,3815,,,,,,,,,,,,,,,
+"Jackalope Brewing Company, LLC",micro,701 8th Ave S,Nashville,Tennessee,37203-4104,-86.7794989,36.1503817,Tennessee,37203,3815,"Nashville-Davidson metropolitan government (balance), Tennessee",47.0,52006.0,678845.0,327201.0,351644.0,34.9,34.5,35.2,33896.0,2259.0,3570.0,4378.0,3687.0,4095.0
 Jacked Up Brewery,micro,800 W Grand Ave Ste B Ste 201,Escondido,California,92025-2562,-117.0917748,33.11733983,California,92025,3816,"Escondido city, California",6.0,22804.0,150656.0,73785.0,76871.0,36.7,36.3,37.2,26487.0,1656.0,3084.0,4002.0,4002.0,2957.0
 Jackie O's Brewery,micro,25 Campbell St,Athens,Ohio,45701-2616,-82.09053555,39.3315139,Ohio,45701,3817,"Athens city, Ohio",39.0,2736.0,23043.0,11096.0,11947.0,21.0,21.8,20.3,29788.0,1978.0,4963.0,3496.0,3227.0,4300.0
 Jackie O's Pub & Brewery,brewpub,22-24 W Union St,Athens,Ohio,45701-2818,-82.10216171,39.32764186,Ohio,45701,3818,"Athens city, Ohio",39.0,2736.0,23043.0,11096.0,11947.0,21.0,21.8,20.3,29788.0,1978.0,4963.0,3496.0,3227.0,4300.0
@@ -2768,7 +2768,7 @@ JRH Brewing,micro,458 W Walnut St,Johnson City,Tennessee,37604-6766,-82.35483648
 JT Schmids Restaurant & Brewery,brewpub,2610 E Katella Ave,Anaheim,California,92806-5903,-117.8770639,33.8056683,California,92806,3880,"Anaheim city, California",6.0,2000.0,345935.0,168784.0,177151.0,37.2,36.6,37.9,44991.0,2674.0,4298.0,8760.0,3660.0,6384.0
 JT Walker's/Champaign County Brewing Co,brewpub,402 E Main St,Mahomet,Illinois,61853-7444,-88.40289612,40.19498357,Illinois,61853,3881,,,,,,,,,,,,,,,
 Jubeck New World Brewing,micro,115 W 11th St,Dubuque,Iowa,52001-4802,-90.66770404,42.50362393,Iowa,52001,3882,"Dubuque city, Iowa",19.0,22395.0,59118.0,28598.0,30520.0,38.5,36.6,39.5,24077.0,3809.0,2585.0,3210.0,1673.0,3083.0
-Jubilee Craft Beer Co,contract,3430 Hampton Ave,Nashville,Tennessee,37215-1408,-86.82509853,36.11746395,Tennessee,37215,3883,,,,,,,,,,,,,,,
+Jubilee Craft Beer Co,contract,3430 Hampton Ave,Nashville,Tennessee,37215-1408,-86.82509853,36.11746395,Tennessee,37215,3883,"Nashville-Davidson metropolitan government (balance), Tennessee",47.0,52006.0,678845.0,327201.0,351644.0,34.9,34.5,35.2,33896.0,2259.0,3570.0,4378.0,3687.0,4095.0
 Jukes Ale Works,brewpub,20560 Elkhorn Dr,Omaha,Nebraska,68022,-96.237282,41.283478,Nebraska,68022,3885,"Omaha city, Nebraska",31.0,37000.0,487299.0,242649.0,244650.0,35.6,34.8,36.2,24105.0,1944.0,2296.0,2971.0,3859.0,3864.0
 Julian Brewing Co,micro,2315 Main St,Julian,California,92065,-116.603975,33.079171,California,92065,3886,,,,,,,,,,,,,,,
 Julius Lehrkind Brewing,micro,1717 N Rouse Ave,Bozeman,Montana,59715-2426,-111.031558,45.69633335,Montana,59715,3887,"Bozeman city, Montana",30.0,8950.0,54545.0,29777.0,24768.0,29.0,29.4,28.5,34477.0,3840.0,3978.0,4443.0,3160.0,5315.0
@@ -2825,7 +2825,7 @@ Keweenaw Brewing Co - Production Facility,micro,408 Shelden Ave,Houghton,Michiga
 Key City Brewing Co.,brewpub,1311 Washington St.,Vicksburg,Mississippi,39180,-90.88216445,32.34927291,Mississippi,39180,3961,"Vicksburg city, Mississippi",28.0,76720.0,22832.0,11003.0,11829.0,36.5,35.2,39.1,23999.0,1749.0,4873.0,2479.0,2126.0,3881.0
 Kickback Brewery,micro,934 Osgood Hill Rd,Westford,Vermont,05494-9740,-72.99402467,44.582023,Vermont,05494,3964,,,,,,,,,,,,,,,
 Kiitos Brewing,micro,608 W 700 S,Salt Lake City,Utah,84104-1016,-111.895509,40.75505333,Utah,84104,3966,"Salt Lake City city, Utah",49.0,67000.0,200475.0,101354.0,99121.0,32.5,32.8,31.9,95038.0,6239.0,11916.0,14504.0,10447.0,12272.0
-Kills Boro Brewing Company,micro,62 Van Duzer St,Staten Island,New York,10301-3226,-74.07740788,40.636479,New York,10301,3967,,,,,,,,,,,,,,,
+Kills Boro Brewing Company,micro,62 Van Duzer St,New York,New York,10301-3226,-74.07740788,40.636479,New York,10301,3967,"New York city, New York",36.0,51000.0,8467513.0,4066818.0,4400695.0,38.1,36.8,39.5,48364.0,4182.0,6049.0,6567.0,5865.0,5508.0
 Kilowatt Brewing,micro,7576 Clairemont Mesa Blvd,San Diego,California,92111-1504,-117.208801,32.8276353,California,92111,3968,"San Diego city, California",6.0,66000.0,1381600.0,707804.0,673796.0,35.9,34.9,37.0,34070.0,2826.0,3995.0,4564.0,4380.0,4664.0
 Kilt Check Brewing Co,micro,4814 Hardware Dr NE,Albuquerque,New Mexico,87109,-106.5898844,35.13600551,New Mexico,87109,3970,"Albuquerque city, New Mexico",35.0,2000.0,562591.0,278377.0,284214.0,38.9,37.5,40.3,31890.0,1692.0,6001.0,3695.0,4705.0,3630.0
 Kinetic Brewing Company,brewpub,735 W Lancaster Blvd,Lancaster,California,93534-3118,-118.1433223,34.6978404,California,93534,3975,"Lancaster city, California",6.0,40130.0,170134.0,85649.0,84485.0,31.8,30.1,34.9,39237.0,3438.0,5794.0,5579.0,5230.0,3539.0
@@ -2995,7 +2995,7 @@ LIC Beer Project,micro,3928 23rd St,New York,New York,11101-4817,-73.942849,40.7
 Lickinghole Creek Craft Brewery,micro,4100 Knolls Point Dr,Goochland,Virginia,23063-2858,-78.0036966,37.7404672,Virginia,23063,4195,,,,,,,,,,,,,,,
 Lidl US LLC,contract,3500 S Clark St,Arlington,Virginia,22202-4045,-77.051863,38.842856,Virginia,22202,4196,,,,,,,,,,,,,,,
 Lieferbrau Brewery LLC,micro,118 East Market Street,Red Bud,Illinois,62278,-89.99352327,38.21165627,Illinois,62278,4197,,,,,,,,,,,,,,,
-Life Brewpub,brewpub,2628 Richmond Rd,Lexington,Kentucky,40509-1501,-84.43443,37.991255,Kentucky,40509,4198,,,,,,,,,,,,,,,
+Life Brewpub,brewpub,2628 Richmond Rd,Lexington,Kentucky,40509-1501,-84.43443,37.991255,Kentucky,40509,4198,"Lexington-Fayette urban county, Kentucky",21.0,46027.0,321793.0,158232.0,163561.0,35.3,34.2,36.3,628577.0,57322.0,91943.0,81506.0,73456.0,83457.0
 Lift Bridge Brewery,micro,1900 Tower Dr W,Stillwater,Minnesota,55082-7515,-92.8317848,45.0391054,Minnesota,55082,4199,"Stillwater city, Minnesota",27.0,62824.0,20378.0,10781.0,9597.0,43.1,39.0,45.3,19579.0,2380.0,2976.0,1629.0,2436.0,2467.0
 Like Minds Brewing Co.,micro,823 E Hamilton St,Milwaukee,Wisconsin,53202-1555,-87.90143961,43.0542106,Wisconsin,53202,4201,"Milwaukee city, Wisconsin",55.0,53000.0,569326.0,275049.0,294277.0,32.3,31.2,33.1,27642.0,1764.0,2613.0,2705.0,3051.0,5509.0
 Lil' Charlie's Restaurant & Brewery,contract,504 E Pearl St,Batesville,Indiana,47006-1585,-85.21614518,39.29564197,Indiana,47006,4204,,,,,,,,,,,,,,,
@@ -3018,7 +3018,7 @@ Little Apple Brewing Co,micro,1110 Westloop Pl,Manhattan,Kansas,66502-2838,-96.6
 Little Brother Brewing,micro,348 S Elm St,Greensboro,North Carolina,27401-2606,-79.7907703,36.0686165,North Carolina,27401,4238,"Greensboro city, North Carolina",37.0,28000.0,298250.0,136498.0,161752.0,36.3,35.6,37.3,88733.0,25385.0,12716.0,9833.0,8357.0,7495.0
 Little Dog Brewing Co.,micro,141 Steiner Ave,Neptune City,New Jersey,07753-6500,-74.02307257,40.20003682,New Jersey,07753,4240,,,,,,,,,,,,,,,
 Little Fish Brewing Company,micro,8675 Armitage Rd,Athens,Ohio,45701-8900,-82.12957738,39.33333227,Ohio,45701,4241,"Athens city, Ohio",39.0,2736.0,23043.0,11096.0,11947.0,21.0,21.8,20.3,29788.0,1978.0,4963.0,3496.0,3227.0,4300.0
-Little Harpeth Brewing Co,micro,30 Oldham St,Nashville,Tennessee,37213-1107,-86.77697471,36.174546,Tennessee,37213,4243,,,,,,,,,,,,,,,
+Little Harpeth Brewing Co,micro,30 Oldham St,Nashville,Tennessee,37213-1107,-86.77697471,36.174546,Tennessee,37213,4243,"Nashville-Davidson metropolitan government (balance), Tennessee",47.0,52006.0,678845.0,327201.0,351644.0,34.9,34.5,35.2,33896.0,2259.0,3570.0,4378.0,3687.0,4095.0
 Little Machine,micro,2924 W 20th Ave,Denver,Colorado,80211-4622,-105.0243557,39.7474051,Colorado,80211,4245,"Denver city, Colorado",8.0,20000.0,711463.0,358282.0,353181.0,35.1,35.1,35.1,20328.0,4138.0,3382.0,3208.0,2591.0,1527.0
 Little Miami Brewing Company,brewpub,208 Mill St,Milford,Ohio,45150-1072,-84.29623162,39.17161035,Ohio,45150,4246,,,,,,,,,,,,,,,
 Little Miss Brewing,micro,7949 Stromesa Ct Ste Y,San Diego,California,92126-6338,-117.148488,32.89183,California,92126,4247,"San Diego city, California",6.0,66000.0,1381600.0,707804.0,673796.0,35.9,34.9,37.0,34070.0,2826.0,3995.0,4564.0,4380.0,4664.0
@@ -3314,7 +3314,7 @@ Mike Hess Brewing - Miramar,micro,7955 Silverton Ave Ste 1201,San Diego,Californ
 Mikerphone Brewing,micro,121 Garlisch Dr,Elk Grove Village,Illinois,60007-1322,-87.96704535,42.02909208,Illinois,60007,4659,,,,,,,,,,,,,,,
 Mikkeller Brewing San Diego,micro,9366 Cabot Dr,San Diego,California,92126-4311,-117.144171,32.89146307,California,92126,4661,"San Diego city, California",6.0,66000.0,1381600.0,707804.0,673796.0,35.9,34.9,37.0,34070.0,2826.0,3995.0,4564.0,4380.0,4664.0
 Mile Post 111 Brewing,brewpub,407 Aplets Way,Cashmere,Washington,98815,-120.4700494,47.5236059,Washington,98815,4662,,,,,,,,,,,,,,,
-Mile Wide Beer Co.,micro,636 Barret Ave,Louisville,Kentucky,40204-1142,-85.7330744,38.2465656,Kentucky,40204,4663,,,,,,,,,,,,,,,
+Mile Wide Beer Co.,micro,636 Barret Ave,Louisville,Kentucky,40204-1142,-85.7330744,38.2465656,Kentucky,40204,4663,"Louisville/Jefferson County metro government (balance), Kentucky",21.0,48006.0,628577.0,305076.0,323501.0,37.9,36.7,39.0,30829.0,2074.0,4373.0,4569.0,3928.0,3555.0
 Mill City Brew Werks,closed,339 NE Cedar St,Camas,Washington,98607-2142,-122.404172,45.585626,Washington,98607,4667,"Camas city, Washington",53.0,9480.0,27061.0,13798.0,13263.0,40.4,38.9,41.3,21116.0,1437.0,4231.0,2498.0,1552.0,2862.0
 Mill Creek Brewing Co.,micro,2008B Johnson Industrial Blvd,Nolensville,Tennessee,37135-9773,-86.67009573,35.9575301,Tennessee,37135,4668,,,,,,,,,,,,,,,
 Mill Creek Brewpub,closed,11 S Palouse St,Walla Walla,Washington,99362-1925,-118.3349272,46.06927939,Washington,99362,4669,"Walla Walla city, Washington",53.0,75775.0,33925.0,19224.0,14701.0,36.1,33.9,37.9,35407.0,3014.0,4413.0,5411.0,2870.0,2905.0
@@ -3345,7 +3345,7 @@ Minglewood Brewery,brewpub,121 Broadway St,Cape Girardeau,Missouri,63701-7326,-8
 Minhas Craft Brewery,regional,1208 14th Ave,Monroe,Wisconsin,53566-2055,-89.641509,42.59863051,Wisconsin,53566,4698,,,,,,,,,,,,,,,
 Minneapolis Town Hall Brewery,brewpub,1430 Washington Ave S,Minneapolis,Minnesota,55454-1038,-93.247714,44.9733314,Minnesota,55454,4699,"Minneapolis city, Minnesota",27.0,43000.0,425338.0,216404.0,208934.0,33.5,33.6,33.3,53266.0,2171.0,8243.0,5233.0,6167.0,8094.0
 Mirage Beer Co,proprietor,943 NW 50th St,Seattle,Washington,98107,-122.3703933,47.66496474,Washington,98107,4701,"Seattle city, Washington",53.0,63000.0,733904.0,371600.0,362304.0,35.5,35.4,35.6,57934.0,1616.0,10074.0,7445.0,8490.0,7573.0
-Mirror Twin Brewing,brewpub,725 National Ave,Lexington,Kentucky,40502-1431,-84.4784656,38.04042235,Kentucky,40502,4702,,,,,,,,,,,,,,,
+Mirror Twin Brewing,brewpub,725 National Ave,Lexington,Kentucky,40502-1431,-84.4784656,38.04042235,Kentucky,40502,4702,"Lexington-Fayette urban county, Kentucky",21.0,46027.0,321793.0,158232.0,163561.0,35.3,34.2,36.3,628577.0,57322.0,91943.0,81506.0,73456.0,83457.0
 Mishap! Brewing Company,micro,48 S Main St,Buffalo,Wyoming,82834-1823,-106.6985012,44.34570009,Wyoming,82834,4705,,,,,,,,,,,,,,,
 Mispillion River Brewing,micro,255 Mullet Run St,Milford,Delaware,19963,-75.45083871,38.93078885,Delaware,19963,4708,,,,,,,,,,,,,,,
 Missing Mountain Brewing Company,brewpub,2811 Front St,Cuyahoga Falls,Ohio,44262,-81.46928097,41.14838453,Ohio,44262,4711,"Cuyahoga Falls city, Ohio",39.0,19778.0,50818.0,23869.0,26949.0,37.7,39.6,35.1,137581.0,20463.0,19984.0,17675.0,10299.0,16826.0
@@ -3387,7 +3387,7 @@ Monkey Paw Brewing,micro,807 16th St,San Diego,California,92101-6610,-117.149375
 Monkey Town Brewing Company,brewpub,287 1st Ave,Dayton,Tennessee,37321-1248,-85.01275238,35.49313804,Tennessee,37321,4755,,,,,,,,,,,,,,,
 Monkish Brewing Co,micro,20311 S Western Ave,Torrance,California,90501-1504,-118.3101863,33.8465751,California,90501,4757,"Torrance city, California",6.0,80000.0,143589.0,72223.0,71366.0,44.1,42.9,46.1,95384.0,7508.0,11454.0,15659.0,10968.0,10040.0
 Monkless Belgian Ales,micro,20750 High Desert Ln Suite 107,Bend,Oregon,97701,-121.3179164,44.0502063,Oregon,97701,4758,"Bend city, Oregon",41.0,5800.0,102079.0,52159.0,49920.0,41.2,39.5,42.2,32768.0,550.0,3555.0,6510.0,6757.0,3153.0
-Monnik Beer Company,brewpub,1036 E Burnett Ave,Louisville,Kentucky,40217-1206,-85.739379,38.2225607,Kentucky,40217,4759,,,,,,,,,,,,,,,
+Monnik Beer Company,brewpub,1036 E Burnett Ave,Louisville,Kentucky,40217-1206,-85.739379,38.2225607,Kentucky,40217,4759,"Louisville/Jefferson County metro government (balance), Kentucky",21.0,48006.0,628577.0,305076.0,323501.0,37.9,36.7,39.0,30829.0,2074.0,4373.0,4569.0,3928.0,3555.0
 Monocacy Brewing Co,micro,1781 N Market St,Frederick,Maryland,21701-4305,-77.3989904,39.4403205,Maryland,21701,4760,"Frederick city, Maryland",24.0,30325.0,79588.0,37466.0,42122.0,37.9,37.4,38.2,69109.0,5970.0,11663.0,10806.0,9117.0,7577.0
 Montauk Brewing Co,micro,62 S Erie Ave,Montauk,New York,11954-5370,-71.9440878,41.0366959,New York,11954,4763,,,,,,,,,,,,,,,
 Montavilla Brew Works,micro,7805 SE Stark St,Portland,Oregon,97215-2339,-122.5833557,45.5193212,Oregon,97215,4764,"Portland city, Oregon",41.0,59000.0,642218.0,318808.0,323410.0,38.3,38.3,38.3,35579.0,2708.0,7539.0,4020.0,3619.0,4012.0
@@ -3505,7 +3505,7 @@ New Era Fine Fermentations,micro,321 S Frankfort Ave,Tulsa,Oklahoma,74120,-95.98
 New Glarus Brewing Co,regional,2400 State Highway 69,New Glarus,Wisconsin,53574,-89.6312918,42.8095311,Wisconsin,53574,4920,,,,,,,,,,,,,,,
 New Glory Craft Brewery,micro,8251 Alpine Ave,Sacramento,California,95826-4708,-121.402102,38.53562933,California,95826,4922,"Sacramento city, California",6.0,64000.0,525028.0,257437.0,267591.0,36.3,35.0,38.1,162780.0,17446.0,22421.0,23546.0,18177.0,13984.0
 New Groove Artisan Brewery,brewpub,4078 Highway 9,Boiling Springs,South Carolina,29316-8501,-82.017032,35.072809,South Carolina,29316,4923,,,,,,,,,,,,,,,
-New Heights Brewing Co,micro,928 5th Ave S,Nashville,Tennessee,37203-4612,-86.7706476,36.1491212,Tennessee,37203,4924,,,,,,,,,,,,,,,
+New Heights Brewing Co,micro,928 5th Ave S,Nashville,Tennessee,37203-4612,-86.7706476,36.1491212,Tennessee,37203,4924,"Nashville-Davidson metropolitan government (balance), Tennessee",47.0,52006.0,678845.0,327201.0,351644.0,34.9,34.5,35.2,33896.0,2259.0,3570.0,4378.0,3687.0,4095.0
 New Helvetia Brewing Company,micro,1730 Broadway,Sacramento,California,95818-2320,-121.4899398,38.5607772,California,95818,4925,"Sacramento city, California",6.0,64000.0,525028.0,257437.0,267591.0,36.3,35.0,38.1,162780.0,17446.0,22421.0,23546.0,18177.0,13984.0
 New Holland Brewing Co,regional,66 E 8th St,Holland,Michigan,49423-3504,-86.10411872,42.79010355,Michigan,49423,4927,"Holland city, Michigan",26.0,38640.0,34342.0,15957.0,18385.0,32.5,33.2,30.9,25804.0,1848.0,2965.0,3822.0,3466.0,3599.0
 New Image Brewing Co,brewpub,5622 Yukon St,Arvada,Colorado,80002-2446,-105.0824595,39.79938347,Colorado,80002,4929,"Arvada city, Colorado",8.0,3455.0,123829.0,60543.0,63286.0,39.7,39.3,40.2,389675.0,35930.0,60744.0,61652.0,48168.0,42361.0
@@ -3676,7 +3676,7 @@ Old Hangtown Beer Works,micro,,Placerville,California,95667,-120.798546,38.72962
 Old Hangtown Beer Works,micro,11327 Trade Center Dr Ste 350,Rancho Cordova,California,95742-6285,-121.264149,38.6075491,California,95742,5169,"Rancho Cordova city, California",6.0,59444.0,80423.0,40648.0,39775.0,36.4,36.2,36.5,175138.0,14660.0,26281.0,23596.0,21301.0,21965.0
 Old Irving Brewing Co.,brewpub,4419 W Montrose Ave,Chicago,Illinois,60641-2021,-87.7394333,41.9605751,Illinois,60641,5171,"Chicago city, Illinois",17.0,14000.0,2696561.0,1309551.0,1387010.0,35.8,35.2,36.5,26904.0,2438.0,3524.0,3371.0,2637.0,4524.0
 Old Kan Beer & Co,brewpub,95 Linden St,Oakland,California,94607-2510,-122.2879928,37.7995945,California,94607,5173,"Oakland city, California",6.0,53000.0,433797.0,210559.0,223238.0,38.2,37.5,38.9,43768.0,4643.0,5234.0,5916.0,6813.0,5867.0
-Old Louisville Brewery,micro,625 W Magnolia Ave,Louisville,Kentucky,40208-2239,-85.76579382,38.22970855,Kentucky,40208,5175,,,,,,,,,,,,,,,
+Old Louisville Brewery,micro,625 W Magnolia Ave,Louisville,Kentucky,40208-2239,-85.76579382,38.22970855,Kentucky,40208,5175,"Louisville/Jefferson County metro government (balance), Kentucky",21.0,48006.0,628577.0,305076.0,323501.0,37.9,36.7,39.0,30829.0,2074.0,4373.0,4569.0,3928.0,3555.0
 Old Majestic Brewing Company,planning,,Mobile,Alabama,36602-2404,-88.0430541,30.6943566,Alabama,36602,5176,"Mobile city, Alabama",1.0,50000.0,184960.0,88077.0,96883.0,37.8,36.3,39.3,184960.0,17514.0,27941.0,20723.0,20921.0,23990.0
 Old Market Pub and Brewery,brewpub,6959 SW Multnomah Blvd,Portland,Oregon,97223-3439,-122.7486715,45.46603555,Oregon,97223,5177,"Portland city, Oregon",41.0,59000.0,642218.0,318808.0,323410.0,38.3,38.3,38.3,35579.0,2708.0,7539.0,4020.0,3619.0,4012.0
 Old Mill Brewpub,brewpub,711 E Main St,Lexington,South Carolina,29072-3670,-81.2298014,33.9772343,South Carolina,29072,5178,"Lexington town, South Carolina",45.0,41335.0,24214.0,13050.0,11164.0,39.8,37.7,42.6,25642.0,2470.0,2341.0,4769.0,2999.0,3323.0
@@ -3761,7 +3761,7 @@ Outlander Brewery & Pub,brewpub,225 N 36th St,Seattle,Washington,98103-8610,-122
 Outlaw Brewing Co,micro,2876 N 27th Ave,Bozeman,Montana,59718-7168,-111.0725189,45.70878295,Montana,59718,5293,"Bozeman city, Montana",30.0,8950.0,54545.0,29777.0,24768.0,29.0,29.4,28.5,34477.0,3840.0,3978.0,4443.0,3160.0,5315.0
 Outlook Farm Brewery,micro,136 Main Rd,Westhampton,Massachusetts,01027-9673,-72.772262,42.285973,Massachusetts,01027,5295,,,,,,,,,,,,,,,
 Outpost Brewing Co,micro,932 Stateline Ave,South Lake Tahoe,California,96150-6913,-119.9450001,38.96097394,California,96150,5296,"South Lake Tahoe city, California",6.0,73108.0,22752.0,11165.0,11587.0,36.5,36.9,36.3,26317.0,1466.0,3106.0,4415.0,4286.0,2557.0
-Overflow Brewing Company,micro,770 1st Ave N,Saint Petersburg,Florida,33701,-82.644494,27.77196743,Florida,33701,5300,,,,,,,,,,,,,,,
+Overflow Brewing Company,micro,770 1st Ave N,Saint Petersburg,Florida,33701,-82.644494,27.77196743,Florida,33701,5300,"St. Petersburg city, Florida",12.0,63000.0,258214.0,123464.0,134750.0,41.9,41.1,42.6,60676.0,6153.0,10649.0,9269.0,7204.0,7030.0
 Overshores Brewing Co,micro,250 Bradley St,East Haven,Connecticut,06512-,-72.87397563,41.29004301,Connecticut,06512,5301,,,,,,,,,,,,,,,
 Owen OLearys Restaurant and Brewery,brewpub,17 Connector Rd,Westborough,Massachusetts,01581-3916,-71.58591979,42.28996559,Massachusetts,01581,5303,,,,,,,,,,,,,,,
 Oxbow Blending & Bottling,micro,49 Washington Ave,Portland,Maine,04101,-70.2513253,43.6649414,Maine,04101,5306,"Portland city, Maine",23.0,60545.0,68329.0,33134.0,35195.0,37.8,38.6,36.9,19177.0,975.0,2424.0,2201.0,3164.0,3212.0
@@ -3857,7 +3857,7 @@ Periodic Brewing Northglenn,micro,2100 E 112th Ave,Northglenn,Colorado,80233-234
 Perry Street Brewing Co.,micro,1025 S Perry St # 2,Spokane,Washington,99202-3464,-117.3898022,47.64605073,Washington,99202,5434,"Spokane city, Washington",53.0,67000.0,229065.0,113856.0,115209.0,35.7,35.2,36.1,105912.0,9706.0,16950.0,13952.0,12485.0,13172.0
 Perrylodgic Brewing Company,micro,3465 US-79 N,Paris,Tennessee,38242-9998,-88.3268031,36.2785418,Tennessee,38242,5435,,,,,,,,,,,,,,,
 Persimmon Hollow Brewing,micro,111 W Georgia Ave,Deland,Florida,32720-5406,-81.30372058,29.02726822,Florida,32720,5436,,,,,,,,,,,,,,,
-Pesky Pelican Brewpub,brewpub,923 72nd St N,Saint Petersburg,Florida,33710-4666,-82.73743948,27.78248193,Florida,33710,5437,,,,,,,,,,,,,,,
+Pesky Pelican Brewpub,brewpub,923 72nd St N,Saint Petersburg,Florida,33710-4666,-82.73743948,27.78248193,Florida,33710,5437,"St. Petersburg city, Florida",12.0,63000.0,258214.0,123464.0,134750.0,41.9,41.1,42.6,60676.0,6153.0,10649.0,9269.0,7204.0,7030.0
 Peter B's Brewpub,brewpub,2 Portola Plz Behind The Portola Hotel,Monterey,California,93940-2419,-121.8947298,36.60253247,California,93940,5438,"Monterey city, California",6.0,48872.0,29875.0,14872.0,15003.0,39.6,39.3,40.1,59673.0,4437.0,7579.0,6976.0,7374.0,9714.0
 Peticolas Brewing Co,micro,2026 Farrington St,Dallas,Texas,75207-6616,-96.83031882,32.79677687,Texas,75207,5439,"Dallas city, Texas",48.0,19000.0,1288441.0,650475.0,637966.0,33.7,33.5,33.9,33678.0,3183.0,3560.0,6715.0,2516.0,3395.0
 Petrichor Brewing,micro,7434 Village Center Dr. ,O Fallon,Missouri,63368,-90.733123,38.749498,Missouri,63368,5441,,,,,,,,,,,,,,,
@@ -3885,7 +3885,7 @@ Pileated Brewing Co,micro,2290 South Industrial Highway,Ann Arbor,Michigan,48104
 Pilothouse Brewing Company,micro,4233 S Buckley Rd,Aurora,Colorado,80013-2947,-104.7915508,39.63993222,Colorado,80013,5473,"Aurora city, Colorado",8.0,4000.0,389675.0,196006.0,193669.0,35.6,34.9,36.4,20503.0,1315.0,946.0,1533.0,2916.0,3698.0
 Pine and Palm Brewing,micro,352 W Bedford Ave Ste 102,Fresno,California,93711-6079,-119.7978837,36.84630567,California,93711,5474,"Fresno city, California",6.0,27000.0,544500.0,270529.0,273971.0,32.9,32.2,33.5,141875.0,14429.0,25407.0,14615.0,19339.0,17146.0
 Pine Street Brewery,micro,,San Francisco,California,94109-4929,-122.4192363,37.7792808,California,94109,5476,"San Francisco city, California",6.0,67000.0,815201.0,417313.0,397888.0,40.4,40.1,41.0,38670.0,2465.0,5049.0,6244.0,4938.0,5346.0
-Pinellas Ale Works,micro,1962 1st Ave S,Saint Petersburg,Florida,33712-1345,-82.6597329,27.77012863,Florida,33712,5480,,,,,,,,,,,,,,,
+Pinellas Ale Works,micro,1962 1st Ave S,Saint Petersburg,Florida,33712-1345,-82.6597329,27.77012863,Florida,33712,5480,"St. Petersburg city, Florida",12.0,63000.0,258214.0,123464.0,134750.0,41.9,41.1,42.6,60676.0,6153.0,10649.0,9269.0,7204.0,7030.0
 Pinetop Brewing Company,brewpub,159 W White Mountain Blvd,Lakeside,Arizona,85929-6527,-109.9561769,34.14301231,Arizona,85929,5481,,,,,,,,,,,,,,,
 Piney River Brewing Company,micro,15194 Walnut Grove Dr,Bucyrus,Missouri,65444-9002,-92.01768537,37.32148798,Missouri,65444,5482,,,,,,,,,,,,,,,
 Piney River Taproom,brewpub,326 US Rte 66 E,Waynesville,Missouri,65583,-92.193612,37.87597,Missouri,65583,5483,,,,,,,,,,,,,,,
@@ -3904,7 +3904,7 @@ Pitchfork Brewing,micro,709 Rodeo Dr Ste 104,Hudson,Wisconsin,54016-4700,-92.683
 Pitt Street Brewing Company,micro,630 S Pitt St,Greenville,North Carolina,27834-3159,-77.37694822,35.6095883,North Carolina,27834,5501,"Greenville city, North Carolina",37.0,28080.0,88733.0,40097.0,48636.0,26.6,25.7,28.6,22162.0,3304.0,1754.0,1870.0,5583.0,1824.0
 Pittsburgh Brewing Co,contract,3340 Liberty Ave,Pittsburgh,Pennsylvania,15201-1394,-79.96570261,40.46161288,Pennsylvania,15201,5502,"Pittsburgh city, Pennsylvania",42.0,61000.0,300454.0,146812.0,153642.0,34.2,32.9,35.4,26866.0,1739.0,3569.0,2942.0,4008.0,3512.0
 PIVO Brewery,micro,101 Huber Dr,Calmar,Iowa,52132,-91.871483,43.190941,Iowa,52132,5503,,,,,,,,,,,,,,,
-Pivot Brewing Company,micro,1400 Delaware Ave,Lexington,Kentucky,40505,-84.470627,38.038574,Kentucky,40505,5504,,,,,,,,,,,,,,,
+Pivot Brewing Company,micro,1400 Delaware Ave,Lexington,Kentucky,40505,-84.470627,38.038574,Kentucky,40505,5504,"Lexington-Fayette urban county, Kentucky",21.0,46027.0,321793.0,158232.0,163561.0,35.3,34.2,36.3,628577.0,57322.0,91943.0,81506.0,73456.0,83457.0
 Pixeled Brewing Company,micro,1100 NP Ave #101,Fargo,North Dakota,58102-4794,-96.79606487,46.87589876,North Dakota,58102,5505,"Fargo city, North Dakota",38.0,25700.0,124843.0,61849.0,62994.0,31.8,32.5,31.4,58985.0,12507.0,9839.0,6644.0,5189.0,5187.0
 Pizza By Elizabeths,brewpub,3801 Kennett Pike,Greenville,Delaware,19807-2321,-75.59566848,39.77560249,Delaware,19807,5508,,,,,,,,,,,,,,,
 Pizza Port - Bressi Ranch,regional,2730 Gateway Rd,Carlsbad,California,92009-1730,-117.2510773,33.12807761,California,92009,5509,"Carlsbad city, California",6.0,11194.0,115291.0,56167.0,59124.0,46.3,42.9,49.9,81039.0,7288.0,11615.0,9421.0,9146.0,10706.0
@@ -4153,7 +4153,7 @@ Ridgewalker Brewing,brewpub,1921 21st Ave,Forest Grove,Oregon,97116-1637,-123.11
 Riepstines Pub,brewpub,913 Arch St,Williamsport,Pennsylvania,17701-5630,-77.05299603,41.23997285,Pennsylvania,17701,5855,"Williamsport city, Pennsylvania",42.0,85312.0,27613.0,13490.0,14123.0,34.3,30.2,37.1,44842.0,6861.0,5131.0,6044.0,5082.0,3959.0
 Riff Raff Brewing,brewpub,274 Pagosa St,Pagosa Springs,Colorado,81147,-107.0081546,37.26874006,Colorado,81147,5856,,,,,,,,,,,,,,,
 Riggs Beer Company,micro,1901 S High Cross Rd,Urbana,Illinois,61802-7843,-88.16245188,40.09367288,Illinois,61802,5857,"Urbana city, Illinois",17.0,77005.0,38686.0,19609.0,19077.0,26.1,27.6,25.3,26154.0,1417.0,2590.0,4606.0,4280.0,3064.0
-Right Around The Corner,micro,2244 Central Ave,Saint Petersburg,Florida,33712,-82.66369394,27.77095137,Florida,33712,5858,,,,,,,,,,,,,,,
+Right Around The Corner,micro,2244 Central Ave,Saint Petersburg,Florida,33712,-82.66369394,27.77095137,Florida,33712,5858,"St. Petersburg city, Florida",12.0,63000.0,258214.0,123464.0,134750.0,41.9,41.1,42.6,60676.0,6153.0,10649.0,9269.0,7204.0,7030.0
 Right Eye Brewing Co,micro,301 Spring St,Suisun City,California,94585,-122.041544,38.242484,California,94585,5860,"Suisun City city, California",6.0,75630.0,29169.0,14734.0,14435.0,37.6,36.2,41.4,152258.0,9641.0,36332.0,21645.0,17134.0,17196.0
 Right Mind Brewing,brewpub,1410 S Main St,Blacksburg,Virginia,24060-5528,-80.4010083,37.2152422,Virginia,24060,5861,"Blacksburg town, Virginia",51.0,7784.0,44955.0,24603.0,20352.0,21.7,21.7,21.8,20997.0,1815.0,2427.0,3086.0,2936.0,2055.0
 Right Proper Brewing Company,micro,920 Girard St NE,Washington,District of Columbia,20017-3424,-76.99307078,38.9267988,District of Columbia,20017,5862,"Washington city, District of Columbia",11.0,50000.0,670050.0,319025.0,351025.0,34.8,34.7,35.0,95779.0,13294.0,15015.0,9033.0,18984.0,11808.0
@@ -4220,7 +4220,7 @@ Rock Cut Brewing Company,micro,390 W Riverside Dr,Estes Park,Colorado,80517,-105
 Rock God Brewing Company,micro,459 Rooney Ave,Danville,Pennsylvania,17821-1897,-76.618447,40.962031,Pennsylvania,17821,5958,,,,,,,,,,,,,,,
 Rock Harbor Brewing Co.,micro,5 Payne Ave,Rockland,Maine,04841,-69.127326,44.100544,Maine,04841,5959,,,,,,,,,,,,,,,
 Rock Harbor Pub & Brewery,brewpub,416 Main St,Rockland,Maine,04841-3345,-69.10907557,44.1049557,Maine,04841,5960,,,,,,,,,,,,,,,
-Rock House Brewing,micro,119 Luigart Ct,Lexington,Kentucky,40508-1686,-84.48229841,38.05652337,Kentucky,40508,5961,,,,,,,,,,,,,,,
+Rock House Brewing,micro,119 Luigart Ct,Lexington,Kentucky,40508-1686,-84.48229841,38.05652337,Kentucky,40508,5961,"Lexington-Fayette urban county, Kentucky",21.0,46027.0,321793.0,158232.0,163561.0,35.3,34.2,36.3,628577.0,57322.0,91943.0,81506.0,73456.0,83457.0
 Rock Wood Fired Pizza & Brewery - Auburn,contract,1408 Lake Tapps Pkwy SE # E,Auburn,Washington,98092-8158,-122.2095415,47.2448314,Washington,98092,5963,"Auburn city, Washington",53.0,3180.0,87061.0,45414.0,41647.0,35.5,33.7,37.5,24556.0,989.0,1233.0,3582.0,3139.0,4422.0
 Rock Wood Fired Pizza and Brewery - Lynnwood,contract,4010 196th St SW,Lynnwood,Washington,98036-6715,-122.2876416,47.82048455,Washington,98036,5964,"Lynnwood city, Washington",53.0,40840.0,40585.0,20416.0,20169.0,38.5,37.7,39.7,28155.0,1163.0,2774.0,4611.0,4911.0,2706.0
 Rock Wood Fired Pizza and Brewery - Tacoma,contract,1920 Jefferson Ave,Tacoma,Washington,98402-1608,-122.4392853,47.24409495,Washington,98402,5965,"Tacoma city, Washington",53.0,70000.0,219203.0,108883.0,110320.0,37.1,36.8,37.3,20431.0,1962.0,4893.0,2984.0,2317.0,3153.0
@@ -4542,12 +4542,12 @@ Slow Pour Brewing Company,micro,407 N Clayton St,Lawrenceville,Georgia,30046-481
 Slowboat Brewing Company,micro,318 W 5th St,Laurel,Mississippi,39440-3461,-89.12789538,31.69425231,Mississippi,39440,6413,,,,,,,,,,,,,,,
 Sluggo Brewing,micro,2712 6th Ave,Tacoma,Washington,98406-7213,-122.472174,47.2553127,Washington,98406,6414,"Tacoma city, Washington",53.0,70000.0,219203.0,108883.0,110320.0,37.1,36.8,37.3,20431.0,1962.0,4893.0,2984.0,2317.0,3153.0
 Sly Fox Brewing Co,regional,331 Circle of Progress Dr,Pottstown,Pennsylvania,19464-3811,-75.66632314,40.26338927,Pennsylvania,19464,6416,,,,,,,,,,,,,,,
-Small Batch Beer Co,brewpub,241 W 5th St,Winston Salem,North Carolina,27101-2825,-80.24656194,36.09984057,North Carolina,27101,6417,,,,,,,,,,,,,,,
+Small Batch Beer Co,brewpub,241 W 5th St,Winston Salem,North Carolina,27101-2825,-80.24656194,36.09984057,North Carolina,27101,6417,"Winston-Salem city, North Carolina",37.0,75000.0,250337.0,116795.0,133542.0,36.4,35.4,37.2,74141.0,6319.0,10251.0,10087.0,8461.0,9627.0
 Small Brewpub,brewpub,333 W Jefferson Blvd,Dallas,Texas,75208-4602,-96.924553,32.747739,Texas,75208,6418,"Dallas city, Texas",48.0,19000.0,1288441.0,650475.0,637966.0,33.7,33.5,33.9,33678.0,3183.0,3560.0,6715.0,2516.0,3395.0
 Small Craft Brewing Co,micro,66 Merrick Rd,Amityville,New York,11701-3463,-73.42019,40.67158556,New York,11701,6419,,,,,,,,,,,,,,,
 Smartmouth Brewing Pilot House,micro,313 32nd St,Virginia Beach,Virginia,23451-2950,-75.98078847,36.86023395,Virginia,23451,6421,"Virginia Beach city, Virginia",51.0,82000.0,457672.0,225012.0,232660.0,37.1,35.8,38.8,22550.0,1985.0,3015.0,3908.0,2547.0,3380.0
 Smelter City Brewing,micro,101 E Commercial Ave,Anaconda,Montana,59711-2289,-112.95216,46.130107,Montana,59711,6422,,,,,,,,,,,,,,,
-Smith & Lentz Brewing,micro,903 Main St,Nashville,Tennessee,37206-3609,-86.75651722,36.17632511,Tennessee,37206,6424,,,,,,,,,,,,,,,
+Smith & Lentz Brewing,micro,903 Main St,Nashville,Tennessee,37206-3609,-86.75651722,36.17632511,Tennessee,37206,6424,"Nashville-Davidson metropolitan government (balance), Tennessee",47.0,52006.0,678845.0,327201.0,351644.0,34.9,34.5,35.2,33896.0,2259.0,3570.0,4378.0,3687.0,4095.0
 Smith Rock Brewing,brewpub,546 NW 7th St,Redmond,Oregon,97756-1628,-121.175239,44.28056302,Oregon,97756,6425,"Redmond city, Oregon",41.0,61200.0,35579.0,18356.0,17223.0,34.0,32.9,34.5,25877.0,1175.0,3809.0,3047.0,2685.0,4120.0
 Smockville Brewhouse,brewpub,22793 SW Pine St,Sherwood,Oregon,97140-9303,-122.8406694,45.3566248,Oregon,97140,6427,"Sherwood city, Oregon",41.0,67100.0,24409.0,11689.0,12720.0,35.4,35.0,35.7,62250.0,5270.0,9251.0,8073.0,8070.0,7938.0
 Smog City Brewing,micro,1901 Del Amo Blvd Ste B,Torrance,California,90501-1350,-118.313547,33.8472774,California,90501,6428,"Torrance city, California",6.0,80000.0,143589.0,72223.0,71366.0,44.1,42.9,46.1,95384.0,7508.0,11454.0,15659.0,10968.0,10040.0
@@ -4610,7 +4610,7 @@ Southbound Brewing Co,micro,107 E Lathrop Ave,Savannah,Georgia,31415-2182,-81.11
 Southern Barrel Brewing Company,micro,375 Buckwalter Place Blvd,Bluffton,South Carolina,29910,-80.9199124,32.2715377,South Carolina,29910,6517,"Bluffton town, South Carolina",45.0,7210.0,32201.0,16011.0,16190.0,37.3,35.3,38.0,22572.0,1182.0,3354.0,3395.0,2007.0,3191.0
 Southern Brewing & Winemaking Brewery,brewpub,4500 N Nebraska Ave,Tampa,Florida,33603-4149,-82.4500207,27.9495902,Florida,33603,6518,"Tampa city, Florida",12.0,71000.0,387037.0,190098.0,196939.0,35.8,35.6,35.9,25558.0,1173.0,2382.0,2834.0,2814.0,5306.0
 Southern Brewing Company,micro,231 Collins Industrial Blvd,Athens,Georgia,30601-1517,-83.35002287,33.98114012,Georgia,30601,6519,,,,,,,,,,,,,,,
-Southern Grist Brewing Company,micro,1201 Porter Rd,Nashville,Tennessee,37206-1733,-86.729011,36.188838,Tennessee,37206,6521,,,,,,,,,,,,,,,
+Southern Grist Brewing Company,micro,1201 Porter Rd,Nashville,Tennessee,37206-1733,-86.729011,36.188838,Tennessee,37206,6521,"Nashville-Davidson metropolitan government (balance), Tennessee",47.0,52006.0,678845.0,327201.0,351644.0,34.9,34.5,35.2,33896.0,2259.0,3570.0,4378.0,3687.0,4095.0
 Southern Pacific Brewing,brewpub,620 Treat Ave,San Francisco,California,94110-2016,-122.4139896,37.7601311,California,94110,6525,"San Francisco city, California",6.0,67000.0,815201.0,417313.0,397888.0,40.4,40.1,41.0,38670.0,2465.0,5049.0,6244.0,4938.0,5346.0
 Southern Peak Brewery,micro,950 Windy Rd Ste 100,Apex,North Carolina,27502-2410,-78.8439995,35.7461806,North Carolina,27502,6526,"Apex town, North Carolina",37.0,1520.0,62904.0,30060.0,32844.0,34.4,34.0,34.5,27126.0,1615.0,3688.0,5031.0,2366.0,3495.0
 Southern Prohibition Brewing,micro,301 Mobile St,Hattiesburg,Mississippi,39401-3406,-89.28992011,31.33123464,Mississippi,39401,6528,"Hattiesburg city, Mississippi",28.0,31020.0,45704.0,21170.0,24534.0,29.7,32.1,27.5,20436.0,2277.0,1593.0,2602.0,3793.0,2876.0
@@ -4656,7 +4656,7 @@ St. Elmo Brewing Company,micro,440 E Saint Elmo Rd,Austin,Texas,78745-1281,-97.7
 St. Florian's Brewery,closed,7704 Bell Rd Ste A,Windsor,California,95492-8518,-122.8033977,38.53735645,California,95492,6588,"Windsor town, California",6.0,85922.0,26040.0,13296.0,12744.0,44.1,40.2,49.9,61391.0,6709.0,7802.0,7776.0,6654.0,7677.0
 St. Francis Brewing Company,brewpub,3825 S Kinnickinnic Ave,Saint Francis,Wisconsin,53235-4225,-87.875747,42.97452,Wisconsin,53235,6589,,,,,,,,,,,,,,,
 St. Joseph Brewery & Public House,brewpub,540 N College Ave,Indianapolis,Indiana,46202-3504,-86.1449174,39.8095687,Indiana,46202,6590,"Indianapolis city (balance), Indiana",18.0,36003.0,882327.0,430589.0,451738.0,34.5,33.0,35.6,50568.0,3462.0,8741.0,6155.0,6845.0,5558.0
-St. Pete Brewing Company,micro,544 1st Ave NÂ ,Saint Petersburg,Florida,33701-3702,-82.64102088,27.77179015,Florida,33701,6591,,,,,,,,,,,,,,,
+St. Pete Brewing Company,micro,544 1st Ave NÂ ,Saint Petersburg,Florida,33701-3702,-82.64102088,27.77179015,Florida,33701,6591,"St. Petersburg city, Florida",12.0,63000.0,258214.0,123464.0,134750.0,41.9,41.1,42.6,60676.0,6153.0,10649.0,9269.0,7204.0,7030.0
 Staas Brewing Company,micro,31 W Winter St,Delaware,Ohio,43015-1948,-83.069285,40.300173,Ohio,43015,6592,"Delaware city, Ohio",39.0,21434.0,44423.0,22266.0,22157.0,34.5,34.2,35.3,49660.0,1846.0,2556.0,7239.0,10368.0,5469.0
 Stable 12 Brewing Company,brewpub,368 Bridge St,Phoenixville,Pennsylvania,19460-3358,-75.5195231,40.1335808,Pennsylvania,19460,6593,,,,,,,,,,,,,,,
 Stadium Brewing Co,brewpub,26731 Aliso Creek Rd Ste C,Aliso Viejo,California,92656-4811,-117.7264877,33.57546729,California,92656,6597,"Aliso Viejo city, California",6.0,947.0,51829.0,25155.0,26674.0,37.3,37.2,37.5,46510.0,2916.0,3980.0,5733.0,6901.0,7180.0
@@ -4677,7 +4677,7 @@ State 48 Brewery,brewpub,13823 W Bell Rd,Surprise,Arizona,85374-3873,-112.357813
 State Brewing Co LLC,closed,1237 W 134th St Ste 2,Gardena,California,90247-1962,-118.2978732,33.91111274,California,90247,6621,"Gardena city, California",6.0,28168.0,59714.0,28757.0,30957.0,39.2,39.7,37.8,170492.0,14564.0,23657.0,20468.0,25536.0,24817.0
 State Room Brewery,brewpub,1132 4th St,San Rafael,California,94901-3007,-122.5286585,37.97327448,California,94901,6622,"San Rafael city, California",6.0,68364.0,60758.0,29361.0,31397.0,43.4,42.4,45.3,86939.0,4969.0,5833.0,15383.0,16105.0,8556.0
 Stateline Brewery,brewpub,4118 Lake Tahoe Blvd Ste 1,South Lake Tahoe,California,96150-6990,-119.9424674,38.95801631,California,96150,6623,"South Lake Tahoe city, California",6.0,73108.0,22752.0,11165.0,11587.0,36.5,36.9,36.3,26317.0,1466.0,3106.0,4415.0,4286.0,2557.0
-Staten Island Beer Company,micro,20 Kinsey Pl,Staten Island,New York,10303-1427,-74.17033729,40.62874743,New York,10303,6624,,,,,,,,,,,,,,,
+Staten Island Beer Company,micro,20 Kinsey Pl,New York,New York,10303-1427,-74.17033729,40.62874743,New York,10303,6624,"New York city, New York",36.0,51000.0,8467513.0,4066818.0,4400695.0,38.1,36.8,39.5,48364.0,4182.0,6049.0,6567.0,5865.0,5508.0
 Station 26 Brewing Co,micro,7045 E 38th Ave,Denver,Colorado,80207-1541,-104.9062608,39.76935335,Colorado,80207,6625,"Denver city, Colorado",8.0,20000.0,711463.0,358282.0,353181.0,35.1,35.1,35.1,20328.0,4138.0,3382.0,3208.0,2591.0,1527.0
 Stats Brewpub,brewpub,300 Marietta St NW,Atlanta,Georgia,30313-1632,-84.3964736,33.7615549,Georgia,30313,6626,"Atlanta city, Georgia",13.0,4000.0,496480.0,243807.0,252673.0,34.3,34.0,34.6,200032.0,22173.0,31463.0,24969.0,20937.0,24358.0
 Steady Brewing,micro,2936 Clark Ave,Long Beach,California,90815,-118.133923,33.825078,California,90815,6629,"Long Beach city, California",6.0,43000.0,456063.0,222123.0,233940.0,36.5,35.5,37.5,30699.0,1942.0,2240.0,3285.0,5026.0,4285.0
@@ -4694,7 +4694,7 @@ Stein Brewing Company,micro,2516 49th St,Boulder,Colorado,80301-2455,-105.237832
 Steinhardt Brewing Company,micro,5710 Jefferson Blvd,Frederick,Maryland,21703-6947,-77.512519,39.391045,Maryland,21703,6650,"Frederick city, Maryland",24.0,30325.0,79588.0,37466.0,42122.0,37.9,37.4,38.2,69109.0,5970.0,11663.0,10806.0,9117.0,7577.0
 Stemma Brewing Co,micro,2039 Moore St.,Bellingham,Washington,98229,-122.46103,48.75759,Washington,98229,6652,"Bellingham city, Washington",53.0,5280.0,92290.0,44429.0,47861.0,32.9,32.0,33.7,19565.0,1029.0,2876.0,3344.0,2163.0,2056.0
 Stereo Brewing Co,micro,950 S Via Rodeo,Placentia,California,92870-6775,-117.8200802,33.86330957,California,92870,6653,"Placentia city, California",6.0,57526.0,51269.0,24082.0,27187.0,39.6,38.1,41.1,34297.0,2339.0,5098.0,5800.0,3754.0,3520.0
-Sterling Beer Co.,contract,3214 Preston Hwy,Louisville,Kentucky,40213-1330,-85.7347014,38.2019083,Kentucky,40213,6654,,,,,,,,,,,,,,,
+Sterling Beer Co.,contract,3214 Preston Hwy,Louisville,Kentucky,40213-1330,-85.7347014,38.2019083,Kentucky,40213,6654,"Louisville/Jefferson County metro government (balance), Kentucky",21.0,48006.0,628577.0,305076.0,323501.0,37.9,36.7,39.0,30829.0,2074.0,4373.0,4569.0,3928.0,3555.0
 Sterling Pig Brewery,brewpub,609 W State St,Media,Pennsylvania,19063-2641,-75.3949477,39.918688,Pennsylvania,19063,6655,,,,,,,,,,,,,,,
 Stevens Point Brewery,regional,2617 Water St,Stevens Point,Wisconsin,54481-5248,-89.57398078,44.51026271,Wisconsin,54481,6658,"Stevens Point city, Wisconsin",55.0,77200.0,25698.0,12587.0,13111.0,29.7,29.4,30.7,36192.0,3005.0,4002.0,6426.0,4386.0,4468.0
 Stewbum,brewpub,96 N King St,Honolulu,Hawaii,96817-5109,-157.8634762,21.31171513,Hawaii,96817,6660,"Urban Honolulu CDP, Hawaii",15.0,71550.0,345532.0,172555.0,172977.0,43.7,41.6,46.0,40414.0,4196.0,6377.0,4510.0,4188.0,4731.0
@@ -4805,8 +4805,8 @@ Taft's Ale House,micro,1429 Race St,Cincinnati,Ohio,45202-7009,-84.51750995,39.1
 Taft's Brewing Co,brewpub,4831 Spring Grove Ave,Cincinnati,Ohio,45232-1938,-84.5127071,39.1681213,Ohio,45232,6819,"Cincinnati city, Ohio",39.0,15000.0,308913.0,146416.0,162497.0,32.5,31.9,33.3,368006.0,37919.0,63547.0,44335.0,41713.0,50529.0
 Tahoe Mountain Brewing Company,brewpub,475 N. Lake Blvd,Tahoe City,California,96145,-120.141663,39.170687,California,96145,6820,,,,,,,,,,,,,,,
 Tahoe Mountain Brewing Company,closed,10990 Industrial Way Ste B104,Truckee,California,96161-0258,-120.189448,39.32653386,California,96161,6821,,,,,,,,,,,,,,,
-Tailgate Brewery,brewpub,7300 Charlotte Pike,Nashville,Tennessee,37209-5012,-86.918654,36.119936,Tennessee,37209,6823,,,,,,,,,,,,,,,
-TailGate Brewery Music Row,brewpub,1538 Demonbreun St,Nashville,Tennessee,37203-3112,-86.78963972,36.15310256,Tennessee,37203,6824,,,,,,,,,,,,,,,
+Tailgate Brewery,brewpub,7300 Charlotte Pike,Nashville,Tennessee,37209-5012,-86.918654,36.119936,Tennessee,37209,6823,"Nashville-Davidson metropolitan government (balance), Tennessee",47.0,52006.0,678845.0,327201.0,351644.0,34.9,34.5,35.2,33896.0,2259.0,3570.0,4378.0,3687.0,4095.0
+TailGate Brewery Music Row,brewpub,1538 Demonbreun St,Nashville,Tennessee,37203-3112,-86.78963972,36.15310256,Tennessee,37203,6824,"Nashville-Davidson metropolitan government (balance), Tennessee",47.0,52006.0,678845.0,327201.0,351644.0,34.9,34.5,35.2,33896.0,2259.0,3570.0,4378.0,3687.0,4095.0
 Tailspin Brewing Co,micro,626 S 2nd St,Coldwater,Ohio,45828-9603,-84.6288605,40.47316407,Ohio,45828,6825,,,,,,,,,,,,,,,
 Take 16 Brewing Company,micro,509 E Main St,Luverne,Minnesota,56156-1905,-96.20317435,43.65421673,Minnesota,56156,6826,,,,,,,,,,,,,,,
 Talisman Brewing Company,micro,1258 Gibson Ave,Ogden,Utah,84404-5541,-111.9844475,41.243496,Utah,84404,6828,"Ogden city, Utah",49.0,55980.0,86800.0,45094.0,41706.0,33.2,33.3,33.0,97872.0,16662.0,17009.0,12723.0,8702.0,8162.0
@@ -4860,7 +4860,7 @@ Ten Pin Brewing - Production Facility,micro,1149 N Stratford Rd,Moses Lake,Washi
 Ten Pin Brewing Co,brewpub,1165 N Stratford Rd,Moses Lake,Washington,98837-1514,-119.2781699,47.14506441,Washington,98837,6892,"Moses Lake city, Washington",53.0,47245.0,25585.0,12666.0,12919.0,30.2,29.5,30.9,19978.0,1138.0,3770.0,2324.0,2001.0,3723.0
 Tenacious Brewing Company,planning,,San Diego,California,92101,-117.1627714,32.7174209,California,92101,6894,"San Diego city, California",6.0,66000.0,1381600.0,707804.0,673796.0,35.9,34.9,37.0,34070.0,2826.0,3995.0,4564.0,4380.0,4664.0
 Tenacity Brewing,micro,119 N Grand Traverse St,Flint,Michigan,48503-5620,-83.69663179,43.01522788,Michigan,48503,6895,"Flint city, Michigan",26.0,29000.0,80628.0,40831.0,39797.0,36.9,36.3,38.1,28195.0,1728.0,2081.0,4100.0,4527.0,3524.0
-Tennessee Brew Works,micro,809 Ewing Ave,Nashville,Tennessee,37203-4631,-86.7762132,36.1503752,Tennessee,37203,6898,,,,,,,,,,,,,,,
+Tennessee Brew Works,micro,809 Ewing Ave,Nashville,Tennessee,37203-4631,-86.7762132,36.1503752,Tennessee,37203,6898,"Nashville-Davidson metropolitan government (balance), Tennessee",47.0,52006.0,678845.0,327201.0,351644.0,34.9,34.5,35.2,33896.0,2259.0,3570.0,4378.0,3687.0,4095.0
 Tent City Beer Company,micro,6760 El Camino Real,Atascadero,California,93422-4205,-120.66767,35.487726,California,93422,6900,"Atascadero city, California",6.0,3064.0,29707.0,14864.0,14843.0,42.3,40.3,44.0,31972.0,3719.0,4697.0,4080.0,2886.0,3683.0
 "Terminal Brewhouse, The",brewpub,1464 Market St,Chattanooga,Tennessee,37402-4448,-85.30723077,35.03644493,Tennessee,37402,6902,"Chattanooga city, Tennessee",47.0,14000.0,182111.0,86849.0,95262.0,37.0,35.6,37.9,170966.0,20354.0,31031.0,22682.0,17400.0,16060.0
 Terminal Gravity Brewing Co,micro,803 SE School St,Enterprise,Oregon,97828-1674,-117.2713718,45.4187654,Oregon,97828,6903,,,,,,,,,,,,,,,
@@ -4886,7 +4886,7 @@ The Bakers' Brewery,brewpub,531 Silverthorne Ln,Silverthorne,Colorado,80498,-106
 The Barley House Brewing Company LLC,brewpub,8399 Sharon Mercer Rd,Mercer,Pennsylvania,16137,-80.265315,41.225933,Pennsylvania,16137,6927,,,,,,,,,,,,,,,
 The Bear And Peacock,micro,1288 Orange Ave,Winter Park,Florida,32789-4940,-81.3566559,28.5929429,Florida,32789,6928,"Winter Park city, Florida",12.0,78300.0,29130.0,14088.0,15042.0,41.2,41.0,41.2,38331.0,3073.0,3717.0,5003.0,5034.0,4439.0
 The Bell Marker,brewpub,602 Broadway Ste 101,San Diego,California,92101-5449,-117.0763473,32.597261,California,92101,6931,"San Diego city, California",6.0,66000.0,1381600.0,707804.0,673796.0,35.9,34.9,37.0,34070.0,2826.0,3995.0,4564.0,4380.0,4664.0
-The Black Abbey Brewing Company,micro,2952 Sidco Dr Ste 211,Nashville,Tennessee,37204-3710,-86.755903,36.10481686,Tennessee,37204,6935,,,,,,,,,,,,,,,
+The Black Abbey Brewing Company,micro,2952 Sidco Dr Ste 211,Nashville,Tennessee,37204-3710,-86.755903,36.10481686,Tennessee,37204,6935,"Nashville-Davidson metropolitan government (balance), Tennessee",47.0,52006.0,678845.0,327201.0,351644.0,34.9,34.5,35.2,33896.0,2259.0,3570.0,4378.0,3687.0,4095.0
 The Blue Grasshopper Brew Pub,brewpub,4500 Arrowhead Ridge Dr SE,Rio Rancho,New Mexico,87124-5986,-106.648789,35.254421,New Mexico,87124,6936,"Rio Rancho city, New Mexico",35.0,63460.0,105839.0,52775.0,53064.0,39.0,37.4,39.7,49332.0,5450.0,6352.0,5954.0,5983.0,4916.0
 The Blue Poppy Brewery,planning,,Yorba Linda,California,92886-7300,-117.8249705,33.8901096,California,92886,6939,"Yorba Linda city, California",6.0,86832.0,67992.0,32443.0,35549.0,45.4,46.1,44.6,69544.0,6760.0,9796.0,9002.0,8259.0,8598.0
 The Boathouse Beer Co and Boozery,brewpub,450 W Lake St,Tawas City,Michigan,48763-8320,-83.5169024,44.26826378,Michigan,48763,6940,,,,,,,,,,,,,,,
@@ -5095,7 +5095,7 @@ Tortugo Brewing Company,planning,,Inglewood,California,90302-3308,-118.3550377,3
 Touchstone Brewing Company,planning,,Sacramento,California,95811-0618,-121.4943996,38.5815719,California,95811,7239,"Sacramento city, California",6.0,64000.0,525028.0,257437.0,267591.0,36.3,35.0,38.1,162780.0,17446.0,22421.0,23546.0,18177.0,13984.0
 Tower Brewing Co,micro,1210 66th St Unit B,Sacramento,California,95819-4327,-121.4266488,38.55493463,California,95819,7240,"Sacramento city, California",6.0,64000.0,525028.0,257437.0,267591.0,36.3,35.0,38.1,162780.0,17446.0,22421.0,23546.0,18177.0,13984.0
 Towerhill Brewery,brewpub,237 W Butler Ave,Chalfont,Pennsylvania,18914-3020,-75.21378231,40.27984378,Pennsylvania,18914,7241,,,,,,,,,,,,,,,
-Town Branch Distillery,micro,401 Cross St,Lexington,Kentucky,40508,-84.50889213,38.04997369,Kentucky,40508,7242,,,,,,,,,,,,,,,
+Town Branch Distillery,micro,401 Cross St,Lexington,Kentucky,40508,-84.50889213,38.04997369,Kentucky,40508,7242,"Lexington-Fayette urban county, Kentucky",21.0,46027.0,321793.0,158232.0,163561.0,35.3,34.2,36.3,628577.0,57322.0,91943.0,81506.0,73456.0,83457.0
 "Town In City Brewing Co, LLC",micro,1125 W Cavalcade St,Houston,Texas,77009-2907,-95.3870438,29.8036158,Texas,77009,7243,"Houston city, Texas",48.0,35000.0,2287047.0,1124951.0,1162096.0,34.8,34.7,35.0,22835.0,1704.0,5221.0,3563.0,2384.0,2402.0
 Towne Park Brew Co,closed,19191 Lawrence Cyn,Silverado,California,92676-9731,-117.6243323,33.68926191,California,92676,7244,,,,,,,,,,,,,,,
 Townies Brewery,brewpub,2350 W Liberty Rd,Ann Arbor,Michigan,48103,-83.7891745,42.2730356,Michigan,48103,7245,"Ann Arbor city, Michigan",26.0,3000.0,121541.0,59341.0,62200.0,28.2,28.0,28.4,24681.0,3362.0,5732.0,2858.0,4075.0,2447.0
@@ -5162,7 +5162,7 @@ Tuned Up Brewing Company,micro,135 N Main St,Spring City,Pennsylvania,19475-1874
 Tunnel Vision Brewery,brewpub,5699 S Lake Shore Dr,Harbor Springs,Michigan,49740-9784,-85.065042,45.471828,Michigan,49740,7339,,,,,,,,,,,,,,,
 Tupps Brewery,micro,721 Anderson St,McKinney,Texas,75069-7149,-96.61169549,33.18370422,Texas,75069,7341,"McKinney city, Texas",48.0,45744.0,202680.0,99984.0,102696.0,37.0,36.0,38.2,74106.0,5735.0,8378.0,11640.0,10805.0,8915.0
 Turnagain Brewing,micro,7920 King St,Anchorage,Alaska,99518-3058,-149.878675,61.14944,Alaska,99518,7346,"Anchorage municipality, Alaska",2.0,3000.0,288121.0,147647.0,140474.0,35.2,33.9,36.0,288121.0,27344.0,47051.0,42922.0,32763.0,32652.0
-Turtle Anarchy Brewing Co,micro,5901 California Ave Ste 105,Nashville,Tennessee,37209-1370,-86.85861737,36.16458388,Tennessee,37209,7348,,,,,,,,,,,,,,,
+Turtle Anarchy Brewing Co,micro,5901 California Ave Ste 105,Nashville,Tennessee,37209-1370,-86.85861737,36.16458388,Tennessee,37209,7348,"Nashville-Davidson metropolitan government (balance), Tennessee",47.0,52006.0,678845.0,327201.0,351644.0,34.9,34.5,35.2,33896.0,2259.0,3570.0,4378.0,3687.0,4095.0
 Turtle Stack Brewery,micro,125 2nd St S,La Crosse,Wisconsin,54601-3206,-91.2539366,43.81301528,Wisconsin,54601,7350,"La Crosse city, Wisconsin",55.0,40775.0,52186.0,25714.0,26472.0,30.8,30.4,31.1,269162.0,54248.0,49219.0,33382.0,25186.0,27150.0
 Turtle Swamp Brewing,micro,3377 Washington St,Jamaica Plain,Massachusetts,02130-2617,-71.1123668,42.3014592,Massachusetts,02130,7351,,,,,,,,,,,,,,,
 Tustin Brewing Co,brewpub,13011 Newport Ave Ste 100,Tustin,California,92780-3517,-117.8107616,33.75003812,California,92780,7354,"Tustin city, California",6.0,80854.0,79428.0,41530.0,37898.0,35.9,33.6,37.4,27430.0,5190.0,5711.0,2961.0,2009.0,1410.0
@@ -5239,7 +5239,7 @@ Upstream Brewing Co (#1),brewpub,514 S 11th St,Omaha,Nebraska,68102-2808,-95.930
 Uptown Market Brewing,micro,6620 SW Scholls Ferry Rd,Portland,Oregon,97223-7166,-122.7423002,45.4958797,Oregon,97223,7471,"Portland city, Oregon",41.0,59000.0,642218.0,318808.0,323410.0,38.3,38.3,38.3,35579.0,2708.0,7539.0,4020.0,3619.0,4012.0
 Urban Artifact,micro,1660 Blue Rock St,Cincinnati,Ohio,45223-2554,-84.54196282,39.1607827,Ohio,45223,7474,"Cincinnati city, Ohio",39.0,15000.0,308913.0,146416.0,162497.0,32.5,31.9,33.3,368006.0,37919.0,63547.0,44335.0,41713.0,50529.0
 Urban Chestnut Brewing Co,regional,4465 Manchester Ave,St. Louis,Missouri,63110-2113,-90.261143,38.626662,Missouri,63110,7475,"St. Louis city, Missouri",29.0,65000.0,293310.0,143041.0,150269.0,36.8,36.0,37.7,58131.0,3086.0,7839.0,8876.0,5167.0,9842.0
-Urban Comfort Restaurant and Brewery,brewpub,2601 Central Ave,Saint Petersburg,Florida,33713-8722,-82.668678,27.771098,Florida,33713,7476,,,,,,,,,,,,,,,
+Urban Comfort Restaurant and Brewery,brewpub,2601 Central Ave,Saint Petersburg,Florida,33713-8722,-82.668678,27.771098,Florida,33713,7476,"St. Petersburg city, Florida",12.0,63000.0,258214.0,123464.0,134750.0,41.9,41.1,42.6,60676.0,6153.0,10649.0,9269.0,7204.0,7030.0
 Urban Family Brewing,micro,4441 26th Ave W,Seattle,Washington,98199-1218,-122.3902975,47.6605861,Washington,98199,7477,"Seattle city, Washington",53.0,63000.0,733904.0,371600.0,362304.0,35.5,35.4,35.6,57934.0,1616.0,10074.0,7445.0,8490.0,7573.0
 Urban Growler Brewing Co,brewpub,2325 Endicott St,Saint Paul,Minnesota,55114-1223,-93.19284766,44.9701392,Minnesota,55114,7478,"St. Paul city, Minnesota",27.0,58000.0,307176.0,150594.0,156582.0,33.2,33.2,33.2,23038.0,1368.0,2799.0,3673.0,2638.0,1454.0
 Urban Harvest Brewing Company,micro,1024 S 5th St,Milwaukee,Wisconsin,53204-1733,-87.91672749,43.02080941,Wisconsin,53204,7479,"Milwaukee city, Wisconsin",55.0,53000.0,569326.0,275049.0,294277.0,32.3,31.2,33.1,27642.0,1764.0,2613.0,2705.0,3051.0,5509.0
@@ -5369,7 +5369,7 @@ West Seattle Brewing Co,micro,4415 Fauntleroy Way SW,Seattle,Washington,98126-26
 West Seattle Brewing Co (TapShack),micro,2536 Alki Ave SW,Seattle,Washington,98116-2262,-122.406811,47.580335,Washington,98116,7670,"Seattle city, Washington",53.0,63000.0,733904.0,371600.0,362304.0,35.5,35.4,35.6,57934.0,1616.0,10074.0,7445.0,8490.0,7573.0
 West Shore Brewing Co,micro,10995 Main St,Clarence,New York,14031-1735,-78.57810318,42.98200648,New York,14031,7671,,,,,,,,,,,,,,,
 West Side Brewing,micro,3044 Harrison Ave,Cincinnati,Ohio,45211-5752,-84.598433,39.14890246,Ohio,45211,7672,"Cincinnati city, Ohio",39.0,15000.0,308913.0,146416.0,162497.0,32.5,31.9,33.3,368006.0,37919.0,63547.0,44335.0,41713.0,50529.0
-West Sixth Greenroom,micro,109 W Main St,Lexington,Kentucky,40507,-84.49712824,38.04658314,Kentucky,40507,7674,,,,,,,,,,,,,,,
+West Sixth Greenroom,micro,109 W Main St,Lexington,Kentucky,40507,-84.49712824,38.04658314,Kentucky,40507,7674,"Lexington-Fayette urban county, Kentucky",21.0,46027.0,321793.0,158232.0,163561.0,35.3,34.2,36.3,628577.0,57322.0,91943.0,81506.0,73456.0,83457.0
 Westallion Brewing Company,micro,1825 S 72nd St,West Allis,Wisconsin,53214-4714,-88.0027165,43.01130525,Wisconsin,53214,7675,"West Allis city, Wisconsin",55.0,85300.0,59484.0,27948.0,31536.0,38.7,39.5,37.8,31718.0,3128.0,4579.0,3843.0,4223.0,3437.0
 Westbend Winery and Brewery,micro,5394 Williams Rd,Lewisville,North Carolina,27023-8278,-80.50459165,36.08868228,North Carolina,27023,7676,,,,,,,,,,,,,,,
 Westbound & Down Brewing Company,brewpub,1617 Miner St,Idaho Springs,Colorado,80452,-105.5155002,39.7419049,Colorado,80452,7677,,,,,,,,,,,,,,,
@@ -5512,7 +5512,7 @@ Yachats Brewing,brewpub,PO Box 308,Yachats,Oregon,97498-0308,-124.1039247,44.312
 Yalobusha Brewing Company,micro,102 S Main St,Water Valley,Mississippi,38965-2906,-89.6366568,34.1422633,Mississippi,38965,7885,,,,,,,,,,,,,,,
 Yard Owl Craft Brewery,brewpub,19 Osprey Ln,Gardiner,New York,12525-5339,-74.14716916,41.69154658,New York,12525,7888,,,,,,,,,,,,,,,
 Yards Brewing Co,regional,901 N Delaware Ave,Philadelphia,Pennsylvania,19123-3110,-75.1324016,39.9655175,Pennsylvania,19123,7889,"Philadelphia city, Pennsylvania",42.0,60000.0,1576251.0,749496.0,826755.0,35.2,34.0,36.4,300454.0,50635.0,61008.0,35173.0,28296.0,35089.0
-Yazoo Brewing Co,regional,910 Division St,Nashville,Tennessee,37203-4111,-86.78355595,36.15090195,Tennessee,37203,7891,,,,,,,,,,,,,,,
+Yazoo Brewing Co,regional,910 Division St,Nashville,Tennessee,37203-4111,-86.78355595,36.15090195,Tennessee,37203,7891,"Nashville-Davidson metropolitan government (balance), Tennessee",47.0,52006.0,678845.0,327201.0,351644.0,34.9,34.5,35.2,33896.0,2259.0,3570.0,4378.0,3687.0,4095.0
 Yellow Sun Brewing Company,micro,127 Trade St,Rutherfordton,North Carolina,28139-2849,-81.9581017,35.3666796,North Carolina,28139,7896,,,,,,,,,,,,,,,
 Yellowhammer Brewery,micro,2600 Clinton Ave W,Huntsville,Alabama,35805-3046,-86.5932014,34.7277523,Alabama,35805,7897,"Huntsville city, Alabama",1.0,37000.0,215482.0,106904.0,108578.0,38.0,37.1,39.0,215482.0,23658.0,33498.0,30325.0,21628.0,28330.0
 Yergey Brewing,micro,518B Bank St,Emmaus,Pennsylvania,18049-2008,-75.49366592,40.53379322,Pennsylvania,18049,7899,,,,,,,,,,,,,,,
@@ -5605,10 +5605,10 @@ Abner's Restaurant Inc / Northern Michigan Beer,brewpub,7528 N Woodbridge (M37),
 Adroit Theory Brewing Company,micro,404 Browning Ct Unit C,Purcellville,Virginia,20132-6171,-77.714000834,39.151948009,Virginia,20132,213,,,,,,,,,,,,,,,
 Adventure Brewing Co,micro,33 Perchwood Dr Ste 101,Fredericksburg,Virginia,22405-4552,-77.433204156,38.318948098,Virginia,22405,214,"Fredericksburg city, Virginia",51.0,29744.0,28367.0,13892.0,14475.0,35.4,33.9,36.3,137746.0,16284.0,21712.0,17595.0,13081.0,18274.0
 Adventure South,brewpub,3300 Dill Smith Dr,Fredericksburg,Virginia,22408-7319,-77.464656909,38.244819678,Virginia,22408,215,"Fredericksburg city, Virginia",51.0,29744.0,28367.0,13892.0,14475.0,35.4,33.9,36.3,137746.0,16284.0,21712.0,17595.0,13081.0,18274.0
-Against the Grain Beer Garden,planning,,Louisville,Kentucky,40217,-85.739452677,38.217515932,Kentucky,40217,221,,,,,,,,,,,,,,,
+Against the Grain Beer Garden,planning,,Louisville,Kentucky,40217,-85.739452677,38.217515932,Kentucky,40217,221,"Louisville/Jefferson County metro government (balance), Kentucky",21.0,48006.0,628577.0,305076.0,323501.0,37.9,36.7,39.0,30829.0,2074.0,4373.0,4569.0,3928.0,3555.0
 Agonic Brewing Company LLC,planning,,Rice Lake,Wisconsin,54868-8786,-91.72754486,45.512118629,Wisconsin,54868,224,,,,,,,,,,,,,,,
 Ahnapee Brewery,micro,N9153 Cherry Tree Rd Apt 4,Algoma,Wisconsin,54201-9501,-87.463142834,44.611658567,Wisconsin,54201,226,,,,,,,,,,,,,,,
-Akasha Brewing Company,micro,909 E Market St Ste 700,Louisville,Kentucky,40206-1688,-85.701082293,38.257439611,Kentucky,40206,233,,,,,,,,,,,,,,,
+Akasha Brewing Company,micro,909 E Market St Ste 700,Louisville,Kentucky,40206-1688,-85.701082293,38.257439611,Kentucky,40206,233,"Louisville/Jefferson County metro government (balance), Kentucky",21.0,48006.0,628577.0,305076.0,323501.0,37.9,36.7,39.0,30829.0,2074.0,4373.0,4569.0,3928.0,3555.0
 Akwesasne Mohawk Casino Resort,planning,,Akwesasne,New York,13655-1800,-74.658795225,44.978597312,New York,13655,235,,,,,,,,,,,,,,,
 Alarmist Brewing Co,micro,4055 W Peterson Ave Ste REAR,Chicago,Illinois,60646-6072,-87.764710279,41.999866774,Illinois,60646,240,"Chicago city, Illinois",17.0,14000.0,2696561.0,1309551.0,1387010.0,35.8,35.2,36.5,26904.0,2438.0,3524.0,3371.0,2637.0,4524.0
 Albright Grove Brewing Company,planning,,Townsend,Tennessee,37882,-83.778038213,35.689814935,Tennessee,37882,245,,,,,,,,,,,,,,,
@@ -5901,7 +5901,7 @@ Brew Link Brewing,proprietor,212 E. Main,Plainfield,Indiana,46168-9659,-86.39283
 Brew Republic Bierwerks,brewpub,15201 Potomac Town Pl Ste 120 Stonebridge @ Potomac Town Center,Woodbridge,Virginia,22191-6592,-77.26615358,38.636267343,Virginia,22191,1246,,,,,,,,,,,,,,,
 Brewability Lab,micro,12445 E 39th Ave Unit 314,Denver,Colorado,80239-3456,-104.822474561,39.786875861,Colorado,80239,1248,"Denver city, Colorado",8.0,20000.0,711463.0,358282.0,353181.0,35.1,35.1,35.1,20328.0,4138.0,3382.0,3208.0,2591.0,1527.0
 Brewers,planning,,Charlotte,North Carolina,28217,-80.903400647,35.166288103,North Carolina,28217,1257,"Charlotte city, North Carolina",37.0,12000.0,879697.0,423800.0,455897.0,34.8,34.2,35.5,28309.0,2076.0,2904.0,3645.0,4221.0,2554.0
-Brewers Tasting Room,brewpub,11270 4th St N Ste 202,Saint Petersburg,Florida,33716-2937,-82.657379029,27.877296615,Florida,33716,1258,,,,,,,,,,,,,,,
+Brewers Tasting Room,brewpub,11270 4th St N Ste 202,Saint Petersburg,Florida,33716-2937,-82.657379029,27.877296615,Florida,33716,1258,"St. Petersburg city, Florida",12.0,63000.0,258214.0,123464.0,134750.0,41.9,41.1,42.6,60676.0,6153.0,10649.0,9269.0,7204.0,7030.0
 Brewery 4 Two 4,micro,321 Douglas Ave Ste 120,Holland,Michigan,49424-6599,-86.134912821,42.814192403,Michigan,49424,1262,"Holland city, Michigan",26.0,38640.0,34342.0,15957.0,18385.0,32.5,33.2,30.9,25804.0,1848.0,2965.0,3822.0,3466.0,3599.0
 Brewery 99,micro,417 Broad St Ste F,New Bern,North Carolina,28560-4900,-77.016002271,35.096867939,North Carolina,28560,1265,"New Bern city, North Carolina",37.0,46340.0,31339.0,13963.0,17376.0,38.4,37.2,44.4,469502.0,52417.0,86486.0,69057.0,58791.0,49947.0
 Brewery ARS,micro,1927-29 W Passyunk Ave,Philadelphia,Pennsylvania,19145-3620,-75.175488953,39.923852659,Pennsylvania,19145,1266,"Philadelphia city, Pennsylvania",42.0,60000.0,1576251.0,749496.0,826755.0,35.2,34.0,36.4,300454.0,50635.0,61008.0,35173.0,28296.0,35089.0
@@ -6012,7 +6012,7 @@ Catawba Brewing Co - Asheville,micro,63 Brook St Ste 1,Asheville,North Carolina,
 Catawba Brewing Co - Charlotte,micro,933 Louise Ave Ste 105,Charlotte,North Carolina,28204-2299,-80.8378487,35.211494342,North Carolina,28204,1597,"Charlotte city, North Carolina",37.0,12000.0,879697.0,423800.0,455897.0,34.8,34.2,35.5,28309.0,2076.0,2904.0,3645.0,4221.0,2554.0
 Catawba Island Brewing Company,micro,2330 East Harbor Rd,Port Clinton,Ohio,43452-1517,-82.968874803,41.536587419,Ohio,43452,1598,,,,,,,,,,,,,,,
 Cave Mountain Brewing Co,brewpub,5359 State Route 23,Windham,New York,12496-5906,-74.256702151,42.318317189,New York,12496,1603,,,,,,,,,,,,,,,
-Cavern Brewing At Lowes Foods,brewpub,1381 Old Mill Cir Ste 200,Winston Salem,North Carolina,27103-1497,-80.305326164,36.065314868,North Carolina,27103,1605,,,,,,,,,,,,,,,
+Cavern Brewing At Lowes Foods,brewpub,1381 Old Mill Cir Ste 200,Winston Salem,North Carolina,27103-1497,-80.305326164,36.065314868,North Carolina,27103,1605,"Winston-Salem city, North Carolina",37.0,75000.0,250337.0,116795.0,133542.0,36.4,35.4,37.2,74141.0,6319.0,10251.0,10087.0,8461.0,9627.0
 CB Craft Brewers,micro,300 Village Square Blvd,Honeoye Falls,New York,14472-1180,-77.579314306,42.965160887,New York,14472,1607,,,,,,,,,,,,,,,
 Cedar Creek Brewery,brewpub,336 E Cedar Creek Pkwy,Seven Points,Texas,75143-8395,-96.234752522,32.399497675,Texas,75143,1609,,,,,,,,,,,,,,,
 Cedar Creek Brewing Co.,micro,3820 Leonard Rd,Martinsville,Indiana,46151-5600,-86.419126024,39.445230993,Indiana,46151,1610,,,,,,,,,,,,,,,
@@ -6279,7 +6279,7 @@ Fawken Beer Company,planning,,Columbia,Tennessee,38401-2030,-87.036231687,35.615
 Feed Store Beer Co,planning,,Bloomfield,Indiana,47424-1137,-86.930623828,39.024742682,Indiana,47424,2598,,,,,,,,,,,,,,,
 Fetching Lab Brewing Co.,micro,1578 County Road 423 Suite B,Alvin,Texas,77511,-95.240231017,29.414753486,Texas,77511,2614,"Alvin city, Texas",48.0,2272.0,27578.0,12640.0,14938.0,42.4,43.1,41.8,198781.0,19781.0,28138.0,26502.0,21644.0,22069.0
 FH Beerworks East,planning,,Colorado Springs,Colorado,80915,-104.733815965,38.855219353,Colorado,80915,2618,"Colorado Springs city, Colorado",8.0,16000.0,483969.0,241645.0,242324.0,35.6,34.8,36.4,27824.0,1436.0,3527.0,4376.0,2637.0,2893.0
-Fiddlin' Fish Brewing Company,micro,772 N Trade St.,Winston Salem,North Carolina,27101,-80.229355003,36.101686955,North Carolina,27101,2622,,,,,,,,,,,,,,,
+Fiddlin' Fish Brewing Company,micro,772 N Trade St.,Winston Salem,North Carolina,27101,-80.229355003,36.101686955,North Carolina,27101,2622,"Winston-Salem city, North Carolina",37.0,75000.0,250337.0,116795.0,133542.0,36.4,35.4,37.2,74141.0,6319.0,10251.0,10087.0,8461.0,9627.0
 Field Brewing,planning,,Westfield,Indiana,46074-9494,-86.153443615,40.018493614,Indiana,46074,2623,"Westfield city, Indiana",18.0,82700.0,51618.0,24169.0,27449.0,37.2,35.2,38.8,50279.0,31299.0,4438.0,2700.0,2404.0,1823.0
 Fields & Ivy Brewery,planning,,Olathe,Kansas,66061-7464,-94.828699308,38.89806707,Kansas,66061,2624,"Olathe city, Kansas",20.0,52575.0,143006.0,69951.0,73055.0,39.5,37.9,40.8,197113.0,15533.0,29830.0,30107.0,21055.0,23405.0
 Fife Lake Brewery,planning,,Fife Lake,Michigan,49633-9319,-85.248423696,44.560049728,Michigan,49633,2626,,,,,,,,,,,,,,,
@@ -6497,7 +6497,7 @@ Hank Hudson Brewing At Fairways of Halfmoon,brewpub,17 Johnson Rd,Mechanicville,
 Happy Hippie Brewing Company,planning,,Richardson,Texas,75080,-96.741093368,32.970384376,Texas,75080,3331,"Richardson city, Texas",48.0,61796.0,116369.0,56624.0,59745.0,35.7,35.4,35.8,49665.0,3650.0,8330.0,4335.0,8333.0,5565.0
 Happy Trails Brewing Company,planning,,Sparta,Tennessee,38583-5577,-85.449369466,35.954466143,Tennessee,38583,3332,,,,,,,,,,,,,,,
 Happy Valley Brewing Company,brewpub,137 Elmwood St,State College,Pennsylvania,16801-6851,-77.84865661,40.790264291,Pennsylvania,16801,3333,,,,,,,,,,,,,,,
-Harding House Brewing Company,planning,,Nashville,Tennessee,37209,-86.839917575,36.148701349,Tennessee,37209,3337,,,,,,,,,,,,,,,
+Harding House Brewing Company,planning,,Nashville,Tennessee,37209,-86.839917575,36.148701349,Tennessee,37209,3337,"Nashville-Davidson metropolitan government (balance), Tennessee",47.0,52006.0,678845.0,327201.0,351644.0,34.9,34.5,35.2,33896.0,2259.0,3570.0,4378.0,3687.0,4095.0
 Hardywood Park Craft Brewery,micro,2408 Ownby Ln,Richmond,Virginia,23220-1319,-77.458322913,37.55035802,Virginia,23220,3339,"Richmond city, Virginia",51.0,67000.0,226604.0,106544.0,120060.0,34.8,34.6,35.0,98865.0,7508.0,15544.0,12387.0,11861.0,12104.0
 Hardywood West Creek,micro,820 Sanctuary Trail Dr,Richmond,Virginia,23238,-77.618908105,37.609656868,Virginia,23238,3341,"Richmond city, Virginia",51.0,67000.0,226604.0,106544.0,120060.0,34.8,34.6,35.0,98865.0,7508.0,15544.0,12387.0,11861.0,12104.0
 Harlem Blue Beer,proprietor,2214 Frederick Douglass Blvd Ste 267,New York,New York,10026-1123,-73.952807497,40.803080839,New York,10026,3343,"New York city, New York",36.0,51000.0,8467513.0,4066818.0,4400695.0,38.1,36.8,39.5,48364.0,4182.0,6049.0,6567.0,5865.0,5508.0
@@ -6560,9 +6560,9 @@ Hometown Cellars Winery & Brewery,micro,108 E Center St Ste D,Ithaca,Michigan,48
 Honest Weight Artisan Beer,micro,131 W Main St Ste 104,Orange,Massachusetts,01364-1159,-72.282379915,42.606395946,Massachusetts,01364,3533,,,,,,,,,,,,,,,
 Honey Hollow Brewery,micro,376 E. Honey Rd.,Earlton,New York,12058,-73.922584439,42.34623064,New York,12058,3534,,,,,,,,,,,,,,,
 Honeymoon Brewery,planning,,Santa Fe,New Mexico,87501,-105.942174971,35.689366553,New Mexico,87501,3535,"Santa Fe city, New Mexico",35.0,70500.0,88196.0,42275.0,45921.0,42.5,42.4,42.7,34287.0,2603.0,3856.0,4369.0,3077.0,5854.0
-Honky Tonk Brewing Co,micro,240 Cumberland Bnd,Nashville,Tennessee,37228-1804,-86.804222491,36.19196136,Tennessee,37228,3536,,,,,,,,,,,,,,,
+Honky Tonk Brewing Co,micro,240 Cumberland Bnd,Nashville,Tennessee,37228-1804,-86.804222491,36.19196136,Tennessee,37228,3536,"Nashville-Davidson metropolitan government (balance), Tennessee",47.0,52006.0,678845.0,327201.0,351644.0,34.9,34.5,35.2,33896.0,2259.0,3570.0,4378.0,3687.0,4095.0
 Hoof Hearted Brewing,micro,300 County Road 26,Marengo,Ohio,43334-9678,-82.801573348,40.401040353,Ohio,43334,3540,,,,,,,,,,,,,,,
-HOOTS Beer Co.,micro,840 Mill Works St,Winston Salem,North Carolina,27101-1243,-80.229355003,36.101686955,North Carolina,27101,3543,,,,,,,,,,,,,,,
+HOOTS Beer Co.,micro,840 Mill Works St,Winston Salem,North Carolina,27101-1243,-80.229355003,36.101686955,North Carolina,27101,3543,"Winston-Salem city, North Carolina",37.0,75000.0,250337.0,116795.0,133542.0,36.4,35.4,37.2,74141.0,6319.0,10251.0,10087.0,8461.0,9627.0
 Hop Butcher For the World,micro,1000 N Frontage Rd Ste C,Darien,Illinois,60561-6448,-87.980874901,41.74842544,Illinois,60561,3547,"Darien city, Illinois",17.0,18628.0,22160.0,10267.0,11893.0,45.3,46.9,44.0,70676.0,6893.0,8381.0,8714.0,8423.0,9283.0
 HOP Central Brewery and Taproom,micro,5055 W Ray Rd Ste 2,Chandler,Arizona,85226-6111,-111.932918287,33.31134498,Arizona,85226,3548,"Chandler city, Arizona",4.0,12000.0,279445.0,142965.0,136480.0,36.6,34.9,38.4,279445.0,23724.0,44573.0,40880.0,40263.0,31666.0
 Hop Garden Brewing,contract,N8668 County Road D,Belleville,Wisconsin,53508-9626,-89.546067376,42.857634181,Wisconsin,53508,3553,,,,,,,,,,,,,,,
@@ -6608,7 +6608,7 @@ Imminent Brewing,micro,519 Division St S Unit 2,Northfield,Minnesota,55057-2021,
 Immortal Brewing Company,planning,,Las Vegas,Nevada,89183-5893,-115.141598959,36.004266822,Nevada,89183,3682,"Las Vegas city, Nevada",32.0,40000.0,646776.0,325837.0,320939.0,39.6,39.0,40.0,19959.0,364.0,1585.0,716.0,2076.0,2477.0
 Imperium Brewing,planning,,Hickory,Pennsylvania,15340-1135,-80.319367159,40.287559884,Pennsylvania,15340,3684,,,,,,,,,,,,,,,
 Imprint Beer Company,micro,1500 Industry Rd Ste O,Hatfield,Pennsylvania,19440-3271,-75.28566403,40.26981194,Pennsylvania,19440,3685,,,,,,,,,,,,,,,
-Incendiary Brewing Company,planning,,Winston Salem,North Carolina,27101,-80.229355003,36.101686955,North Carolina,27101,3691,,,,,,,,,,,,,,,
+Incendiary Brewing Company,planning,,Winston Salem,North Carolina,27101,-80.229355003,36.101686955,North Carolina,27101,3691,"Winston-Salem city, North Carolina",37.0,75000.0,250337.0,116795.0,133542.0,36.4,35.4,37.2,74141.0,6319.0,10251.0,10087.0,8461.0,9627.0
 Incline Brewing,planning,,Larkspur,Colorado,80118-8721,-104.905991148,39.237057825,Colorado,80118,3692,,,,,,,,,,,,,,,
 Indeed Brewing Co,regional,711 15th Ave NE Ste 102,Minneapolis,Minnesota,55413-3103,-93.255873173,44.999602275,Minnesota,55413,3693,"Minneapolis city, Minnesota",27.0,43000.0,425338.0,216404.0,208934.0,33.5,33.6,33.3,53266.0,2171.0,8243.0,5233.0,6167.0,8094.0
 Independent Fermentations Brewing,micro,127 Camelot Dr Ste 3,Plymouth,Massachusetts,02360-3039,-70.655932005,41.937301696,Massachusetts,02360,3697,,,,,,,,,,,,,,,
@@ -7274,7 +7274,7 @@ Rock Bottom Brewery - Denver,brewpub,1001 16th St Ste 100,Denver,Colorado,80265-
 Rock Bottom Brewery - Englewood,brewpub,9627 E County Line Rd,Englewood,Colorado,80112-3502,-104.865453933,39.574059246,Colorado,80112,5938,"Englewood city, Colorado",8.0,24785.0,33521.0,17100.0,16421.0,37.2,38.0,36.3,34110.0,2290.0,3382.0,5460.0,6108.0,3197.0
 Rock Bottom Brewery - Highlands Ranch,brewpub,1505 Park Central Dr,Highlands Ranch,Colorado,80129-6686,-105.005640892,39.549530495,Colorado,80129,5939,,,,,,,,,,,,,,,
 Rock Bottom Brewery - Milwaukee,brewpub,740 N Plankinton Ave Fl 1,Milwaukee,Wisconsin,53203-2403,-87.915113545,43.039131552,Wisconsin,53203,5943,"Milwaukee city, Wisconsin",55.0,53000.0,569326.0,275049.0,294277.0,32.3,31.2,33.1,27642.0,1764.0,2613.0,2705.0,3051.0,5509.0
-Rock Bottom Brewery - Nashville,brewpub,111 Broadway,Nashville,Tennessee,37201-2117,-86.775051244,36.164766087,Tennessee,37201,5945,,,,,,,,,,,,,,,
+Rock Bottom Brewery - Nashville,brewpub,111 Broadway,Nashville,Tennessee,37201-2117,-86.775051244,36.164766087,Tennessee,37201,5945,"Nashville-Davidson metropolitan government (balance), Tennessee",47.0,52006.0,678845.0,327201.0,351644.0,34.9,34.5,35.2,33896.0,2259.0,3570.0,4378.0,3687.0,4095.0
 Rock Bottom Brewery - Orchard Cntr,brewpub,14694 Orchard Pkwy Unit 400,Westminster,Colorado,80023-9198,-105.006742959,39.993985957,Colorado,80023,5946,"Westminster city, Colorado",8.0,83835.0,114573.0,55545.0,59028.0,36.4,36.3,36.5,32723.0,3217.0,6750.0,5000.0,3063.0,4854.0
 Rock Bottom Brewery - Warrenville,brewpub,28256 Diehl Rd,Warrenville,Illinois,60555-3835,-88.188198321,41.819531496,Illinois,60555,5951,,,,,,,,,,,,,,,
 Rock Bottom Brewery - Westminster,brewpub,10633 Westminster Blvd Unit 900,Westminster,Colorado,80020-4176,-105.080171731,39.919753335,Colorado,80020,5952,"Westminster city, Colorado",8.0,83835.0,114573.0,55545.0,59028.0,36.4,36.3,36.5,32723.0,3217.0,6750.0,5000.0,3063.0,4854.0
@@ -7688,7 +7688,7 @@ Topsy Turvy,planning,,Hampshire,Illinois,60140-9449,-88.489533903,42.0933285,Ill
 Torg Brewery,planning,,Minneapolis,Minnesota,55432,-93.254067516,45.095743873,Minnesota,55432,7234,"Minneapolis city, Minnesota",27.0,43000.0,425338.0,216404.0,208934.0,33.5,33.6,33.3,53266.0,2171.0,8243.0,5233.0,6167.0,8094.0
 Township 7 Brewing Co. LLC,micro,303 State Route 11b,Dickinson Center,New York,12930-2008,-74.549185236,44.727111416,New York,12930,7246,,,,,,,,,,,,,,,
 Tox Brewing Company,planning,,New London,Connecticut,06320,-72.104255585,41.345964343,Connecticut,06320,7247,"New London city, Connecticut",9.0,52280.0,27639.0,12884.0,14755.0,29.8,30.5,29.6,24168.0,1945.0,2829.0,2937.0,3733.0,3095.0
-Trace Brewing,planning,,Nashville,Tennessee,37221-3967,-86.946660562,36.064657421,Tennessee,37221,7250,,,,,,,,,,,,,,,
+Trace Brewing,planning,,Nashville,Tennessee,37221-3967,-86.946660562,36.064657421,Tennessee,37221,7250,"Nashville-Davidson metropolitan government (balance), Tennessee",47.0,52006.0,678845.0,327201.0,351644.0,34.9,34.5,35.2,33896.0,2259.0,3570.0,4378.0,3687.0,4095.0
 Trader Joes - West Coast Office,contract,800 S. Shamrock Ave,Monrovia,California,91016,-118.002285878,34.141379257,California,91016,7256,"Monrovia city, California",6.0,48648.0,37500.0,19378.0,18122.0,37.7,35.4,38.8,38069.0,3564.0,5708.0,4835.0,6176.0,3667.0
 Traders Brewing Company,micro,8587  ZIONSVILLE ROAD,INDIANAPOLIS,Indiana,46268,-86.226150099,39.89219618,Indiana,46268,7257,,,,,,,,,,,,,,,
 Trail Crest Brewing Company,brewpub,1800 S Milton Rd Ste 11,Flagstaff,Arizona,86001,-111.65652457,35.19631999,Arizona,86001,7261,"Flagstaff city, Arizona",4.0,23620.0,76984.0,37720.0,39264.0,26.7,28.6,24.6,76984.0,23375.0,12060.0,8164.0,7645.0,7255.0
@@ -7842,7 +7842,7 @@ Weilbacher Brewery,planning,,New Braunfels,Texas,78130-5104,-98.117496435,29.694
 "Welpman Springs Brewing Company, LLC.",closed,517 Hatchery Rd,Stover,Missouri,65078-1132,-92.996027908,38.30496979,Missouri,65078,7658,,,,,,,,,,,,,,,
 Wenatchee Valley Brewing Co.,micro,108 Island Vw,Wenatchee,Washington,98801-2039,-120.341044979,47.433905482,Washington,98801,7659,"Wenatchee city, Washington",53.0,77105.0,35407.0,16719.0,18688.0,36.2,35.6,36.5,96565.0,8783.0,14311.0,11302.0,11074.0,9994.0
 Werk Force Brewing Co,micro,14903 S Center St # 107,Plainfield,Illinois,60544-2177,-88.243035279,41.632320224,Illinois,60544,7660,,,,,,,,,,,,,,,
-West Sixth Brewing Co,micro,501 W Sixth St,Lexington,Kentucky,40508-1341,-84.499552118,38.043678064,Kentucky,40508,7673,,,,,,,,,,,,,,,
+West Sixth Brewing Co,micro,501 W Sixth St,Lexington,Kentucky,40508-1341,-84.499552118,38.043678064,Kentucky,40508,7673,"Lexington-Fayette urban county, Kentucky",21.0,46027.0,321793.0,158232.0,163561.0,35.3,34.2,36.3,628577.0,57322.0,91943.0,81506.0,73456.0,83457.0
 Westbound and Down,planning,,Denver,Colorado,80204,-105.025761992,39.73490823,Colorado,80204,7678,"Denver city, Colorado",8.0,20000.0,711463.0,358282.0,353181.0,35.1,35.1,35.1,20328.0,4138.0,3382.0,3208.0,2591.0,1527.0
 Westbrook Brewing Co,regional,510 Ridge Rd,Mount Pleasant,South Carolina,29464-7811,-79.857282909,32.815125193,South Carolina,29464,7679,"Mount Pleasant town, South Carolina",45.0,48535.0,92398.0,46148.0,46250.0,43.0,42.5,43.4,37109.0,3101.0,5344.0,4621.0,2769.0,8471.0
 Western Red Brewing,brewpub,19168 Jensen Way NE Ste 100,Poulsbo,Washington,98370,-122.637930396,47.749830697,Washington,98370,7681,,,,,,,,,,,,,,,
@@ -7891,7 +7891,7 @@ Windy Brew,micro,733 Route 20a,Strykersville,New York,14145-9584,-78.43485181,42
 Winnerâs Circle Brewing Company,contract,21 Whistler Court Apt 4,Saratoga Springs,New York,12866,-73.768392155,43.076557618,New York,12866,7800,"Saratoga Springs city, New York",36.0,65255.0,28303.0,13918.0,14385.0,43.0,42.7,43.6,66985.0,7596.0,10169.0,8257.0,7868.0,9806.0
 Winter Hill Brewing Company,brewpub,328 Broadway,Somerville,Massachusetts,02145-2803,-71.085752436,42.390517605,Massachusetts,02145,7801,"Somerville city, Massachusetts",25.0,62535.0,79819.0,39288.0,40531.0,33.2,33.6,32.8,154788.0,20122.0,22063.0,19269.0,17132.0,17351.0
 Wisconsin Dells Brewing Company,brewpub,110 Wisconsin Dells Pkwy S,Wisconsin Dells,Wisconsin,53965-8304,-89.775165435,43.639841332,Wisconsin,53965,7804,,,,,,,,,,,,,,,
-Wise Man Brewing,micro,826 Angelo Brothers Ave,Winston-Salem,North Carolina,27101,-80.229355003,36.101686955,North Carolina,27101,7805,"Winston-Salem city, North Carolina",37.0,75000.0,250337.0,116795.0,133542.0,36.4,35.4,37.2,74141.0,6319.0,10251.0,10087.0,8461.0,9627.0
+Wise Man Brewing,micro,826 Angelo Brothers Ave,Winston-Salem,North Carolina,27101,-80.229355003,36.101686955,North Carolina,27101,7805,,,,,,,,,,,,,,,
 Wishful Acres Farm and Brewery,micro,4679 N Flansburg Rd,Lena,Illinois,61048,-89.827896347,42.377936953,Illinois,61048,7807,,,,,,,,,,,,,,,
 Wit's End Brewing Co,micro,1330 Zuni St Ste N,Denver,Colorado,80204-2328,-105.025761992,39.73490823,Colorado,80204,7809,"Denver city, Colorado",8.0,20000.0,711463.0,358282.0,353181.0,35.1,35.1,35.1,20328.0,4138.0,3382.0,3208.0,2591.0,1527.0
 Wolf Brewing Company,planning,,Harrisburg,Pennsylvania,17112-1550,-76.783694747,40.339517901,Pennsylvania,17112,7815,"Harrisburg city, Pennsylvania",42.0,32800.0,50128.0,24969.0,25159.0,35.0,29.7,37.4,29973.0,2645.0,3927.0,3467.0,3543.0,3389.0
