@@ -1,4 +1,0 @@
-https://www.census.gov/library/visualizations/interactive/breweries.html  --> Article about breweries for the Census 
-
-
-https://cbb.census.gov/cbb/#industry0=312120&geoId=17031&geoType=county&view=report&reportType=summary --> Brewery Busisness in Illinois
