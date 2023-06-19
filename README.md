@@ -46,7 +46,7 @@
 - Edit city names from each dataset so they match up correctly in merge
 - Merge two dataframes by City and State column 
 
-### Create csv fgile
+### Create csv file
 - Created csv file with the completed census dataset. File name is merged_df_cleaned
 
 ## Part 4: Create Visualizations
