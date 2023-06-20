@@ -71,6 +71,8 @@
 - Created a bar plot for median age, female and male for top 3 MS cities
 - Plot breweries (micro) vs population
 - Plot breweries (micro) vs income
+- Plotted a histogram showing the data comparing the two populations
+- Ran an independednt t-test for the median income of zip codes with breweries and zip codes without breweries
 
 
 
